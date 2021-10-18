@@ -1,0 +1,58 @@
+{
+    "EBookAddingDigitalToYourOOHNetwork": {
+        "Title": "How to add digital to your static OOH network",
+        "CTA": "Download our eBook"
+    },
+    "EBook7Habits": {
+        "Title": "The 7 Habits of Highly Effective DOOH Media Owners",
+        "CTA": "Download our eBook"
+    },
+    "EBookCampsiteAddRealWorldKick": {
+        "Title": "Add a real-world _kick_ to your digital advertising",
+        "CTA": "Download our guide",
+        "URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
+    },
+    "EBookDOOHPlaybook": {
+        "Title": "Everything you need to launch a programmatic DOOH campaign",
+        "CTA": "Download our eBook"
+    },
+    "EBookInteractiveContent": {
+        "Title": "How dynamic is your network?",
+        "CTA": "Download our eBook"
+    },
+    "EBookModernizeOOHBusiness": {
+        "Title": "Modernize your classic OOH business today",
+        "CTA": "Get your free guide"
+    },
+    "EBookOptimizeOOHSalesThroughAutomation": {
+        "title": "Unlock the full value of your OOH inventory",
+        "tagline": "More time, More money, Less stress",
+        "cta": "Get your free guide"
+    },
+    "EBookSuccessfulNetwork": {
+        "Title": "Your complete guide to building a successful digital signage network",
+        "CTA": "Download our eBook"
+    },
+    "MediaKitAmplify": {
+        "Title": "Amplify your Next Campaign with Programmatic DOOH",
+        "CTA": "Browse our Media Kits"
+    },
+    "ProgrammaticU": {
+        "Title": "You don't need a PhD to add DOOH to your campaign – but our lessons can help",
+        "CTA": "Start learning today"
+    },
+    "ReportIABAudienceResearch": {
+        "Title": "_DOOH audience data and_ _market attribution research_",
+        "CTA": "Get the Report"
+    },
+    "freeTrial": {
+        "tagline": "Try the Broadsign suite _free for 30 days!_",
+        "cta": "Start Free Trial",
+        "learnMore": "Learn more"
+    },
+    "demo": {
+        "tagline": "Request a live demo with a _Broadsign specialist today!_",
+        "cta": "Request a Demo",
+        "learnMore": "Learn more"
+    }
+}
