@@ -1,0 +1,86 @@
+{
+    "BigVoiceAward": {
+        "text": "Want to be awarded your own billboard campaign?",
+        "cta": "Submit your entry",
+        "url": "https://campsiteproject.com/big-voice"
+    },
+    "EBook5MistakesToAvoid": {
+        "text": "Want to make your digital signage content shine?",
+        "cta": "Download our eBook"
+    },
+    "EBook7Habits": {
+        "title": "The 7 Habits of Highly Effective DOOH Media Owner",
+        "cta": "Download our eBook"
+    },
+    "EBookAddingDigitalToYourOOHNetwork": {
+        "title": "How to add digital to your static OOH network, step by step",
+        "cta": "Download our eBook"
+    },
+    "EBookCampsiteAddRealWorldKick": {
+        "Title": "Ready to leverage the power of digital out-of-home and add a real-world <em>kick</em> to your digital campaign?",
+        "CTA": "Download our guide",
+        "URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
+    },
+    "EBookDOOHPlaybook": {
+        "text": "Everything you need to launch a programmatic DOOH campaign",
+        "cta": "Download our eBook"
+    },
+    "EBookInteractiveContent": {
+        "title": "How dynamic is your network?",
+        "cta": "Download our eBook"
+    },
+    "EBookModernizeOOHBusiness": {
+        "title": "Modernize your classic OOH business today",
+        "cta": "Get your free guide"
+    },
+    "EBookOptimizeOOHSalesThroughAutomation": {
+        "title": "Unlock the full value of your OOH inventory",
+        "tagline": "More time, More money, Less stress",
+        "cta": "Get your free guide"
+    },
+    "MediaKitAmplify": {
+        "title": "Amplify your Next Campaign with Programmatic DOOH",
+        "cta": "Browse our Media Kits"
+    },
+    "ProgrammaticU": {
+        "title": "You don't need a PhD to add DOOH to your campaign – <b>but our lessons can help</b>",
+        "cta": "Start learning today"
+    },
+    "ProgrammaticUCertificate": {
+        "title": "Ready to put your newly gained knowledge to the test?",
+        "cta": "Get programmatic U certified!"
+    },
+    "ProgrammaticUMediaBuyers": {
+        "title": "Buyers – Ready to put your newly gained knowledge to the test?",
+        "cta": "Get programmatic U certified!"
+    },
+    "ProgrammaticUMediaOwners": {
+        "title": "Publishers – Ready to put your newly gained knowledge to the test?",
+        "cta": "Get programmatic U certified!"
+    },
+    "SOC2": {
+        "title": "Security your network can rely on",
+        "text": "Keep your signage network and data safe with industry-leading security, monitoring and alerting features.",
+        "cta": "Learn More"
+    },
+    "WebinarControl13": {
+        "cta": ""
+    },
+    "WebinarDirect": {
+        "cta": ""
+    },
+    "ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
+        "text": "Want to learn how to create a great digital signage network?",
+        "cta": "Download our eBook"
+    },
+    "demo": {
+        "tagline": "Request a live demo with a _Broadsign specialist today!_",
+        "cta": "Request a Demo",
+        "learnMore": "Learn more"
+    },
+    "freeTrial": {
+        "tagline": "Try the Broadsign suite _free for 30 days!_",
+        "cta": "Start Free Trial",
+        "learnMore": "Learn more"
+    }
+}
