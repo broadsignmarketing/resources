@@ -628,6 +628,32 @@
             "forms": []
         }
     },
+    "ebookIncreaseRevenueWithContextualInStoreMedia": {
+        "js": "resources/ebook-increase-revenue-with-contextual-in-store-media",
+        "en": "ebook-increase-revenue-with-contextual-in-store-media/",
+        "fr": "",
+        "es": "",
+        "de": "",
+        "nl": "",
+        "ja": "",
+        "cn": "",
+        "meta": {
+            "forms": []
+        }
+    },
+    "thankYouEbookIncreaseRevenueWithContextualInStoreMedia": {
+        "js": "resources/thank-you-ebook-increase-revenue-with-contextual-in-store-media",
+        "en": "thank-you-ebook-increase-revenue-with-contextual-in-store-media/",
+        "fr": "",
+        "es": "",
+        "de": "",
+        "nl": "",
+        "ja": "",
+        "cn": "",
+        "meta": {
+            "forms": []
+        }
+    },
     "ebookOptimizeOOHSalesThroughAutomation": {
         "js": "resources/ebook-optimize-ooh-sales-through-automation",
         "en": "ebook-optimize-ooh-sales-through-automation/",
