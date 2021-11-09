@@ -784,6 +784,20 @@
             "forms": []
         }
     },
+	"webinarGoingTheLastMile": {
+        "js": "resources/webinar-going-the-last-mile",
+        "en": "webinar-going-the-last-mile/",
+        "fr": "",
+        "es": "",
+        "de": "",
+        "nl": "",
+        "ja": "",
+        "cn": "",
+        "meta": {
+            "forms": []
+        }
+    },
+
     "freeTrial": {
         "js": "free-trial",
         "en": "free-trial/",
