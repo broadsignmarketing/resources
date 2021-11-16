@@ -25,10 +25,18 @@
         "text": "Everything you need to launch a programmatic DOOH campaign",
         "cta": "Download our eBook"
     },
+    "ebookIncreaseRevenueWithContextualInStoreMedia": {
+        "title": "",
+        "cta": ""
+    },
     "EBookInteractiveContent": {
-        "title": "How dynamic is your network?",
+		"title": "How dynamic is your network?",
         "cta": "Download our eBook"
     },
+	"ebookMediaBuyersGuideToProgrammaticDOOH": {
+		"title": "The Media Buyer’s Guide to Programmatic <b>Digital Out-of-Home</b>",
+		"cta": "Download your copy"
+	},
     "EBookModernizeOOHBusiness": {
         "title": "Modernize your classic OOH business today",
         "cta": "Get your free guide"

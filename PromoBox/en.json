@@ -8,7 +8,7 @@
         "CTA": "Download our eBook"
     },
     "EBookCampsiteAddRealWorldKick": {
-        "Title": "Add a real-world _kick_ to your digital advertising",
+        "Title": "Add a real-world <em>kick</em> to your digital advertising",
         "CTA": "Download our guide",
         "URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
     },
@@ -16,14 +16,22 @@
         "Title": "Everything you need to launch a programmatic DOOH campaign",
         "CTA": "Download our eBook"
     },
-    "EBookInteractiveContent": {
-        "Title": "How dynamic is your network?",
-        "CTA": "Download our eBook"
-    },
     "EBookModernizeOOHBusiness": {
         "Title": "Modernize your classic OOH business today",
         "CTA": "Get your free guide"
     },
+    "EBookInteractiveContent": {
+        "Title": "How dynamic is your network?",
+        "CTA": "Download our eBook"
+    },
+    "ebookIncreaseRevenueWithContextualInStoreMedia": {
+        "Title": "Modernize your classic OOH business today",
+        "CTA": "Get your free guide"
+    },
+	"ebookMediaBuyersGuideToProgrammaticDOOH": {
+		"title": "The Media Buyer’s Guide to Programmatic Digital Out-of-Home",
+		"cta": "Download your copy"
+	},
     "EBookOptimizeOOHSalesThroughAutomation": {
         "title": "Unlock the full value of your OOH inventory",
         "tagline": "More time, More money, Less stress",
@@ -42,16 +50,16 @@
         "CTA": "Start learning today"
     },
     "ReportIABAudienceResearch": {
-        "Title": "_DOOH audience data and_ _market attribution research_",
+        "Title": "DOOH audience data and market attribution research",
         "CTA": "Get the Report"
     },
     "freeTrial": {
-        "tagline": "Try the Broadsign suite _free for 30 days!_",
+        "tagline": "Try the Broadsign suite <em>free for 30 days!</em>",
         "cta": "Start Free Trial",
         "learnMore": "Learn more"
     },
     "demo": {
-        "tagline": "Request a live demo with a _Broadsign specialist today!_",
+        "tagline": "Request a live demo with a <em>Broadsign specialist today!</em>",
         "cta": "Request a Demo",
         "learnMore": "Learn more"
     }
