@@ -1337,6 +1337,19 @@
             "forms": []
         }
     },
+    "V13": {
+        "js": "ooh-from-home-webinars/demystifying-programmatic-dooh",
+        "en": "ooh-from-home-webinars/demystifying-programmatic-dooh/",
+        "fr": "",
+        "es": "",
+        "de": "",
+        "nl": "",
+        "ja": "",
+        "cn": "",
+        "meta": {
+            "forms": []
+        }
+    },
     "viewOohFromHome": {
         "js": "view-ooh-from-home",
         "en": "view-ooh-from-home/",
