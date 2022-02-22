@@ -1,1443 +1,1542 @@
 {
-    "index": {
-        "js": "index",
-        "en": "/",
-        "fr": "fr/",
-        "es": "es/",
-        "de": "de/",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "broadsignPlatform": {
-        "js": "broadsign-platform",
-        "en": "broadsign-platform/",
-        "fr": "fr/plateforme-broadsign/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": [
-                "demo"
-            ]
-        }
-    },
-    "broadsignAir": {
-        "js": "broadsign-air",
-        "en": "broadsign-air/",
-        "fr": "fr/broadsign-air/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": [
-                "contact",
-                "demo"
-            ]
-        }
-    },
-    "broadsignControl": {
-        "js": "broadsign-control",
-        "en": "broadsign-control/",
-        "fr": "fr/broadsign-control/",
-        "es": "es/broadsign-control/",
-        "de": "de/broadsign-control/",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/broadsign-control/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "broadsignDirect": {
-        "js": "broadsign-direct",
-        "en": "broadsign-direct/",
-        "fr": "fr/broadsign-direct/",
-        "es": "es/broadsign-direct/",
-        "de": "de/broadsign-direct/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "broadsignPublish": {
-        "js": "broadsign-publish",
-        "en": "broadsign-publish/",
-        "fr": "fr/broadsign-publish/",
-        "es": "es/broadsign-publish/",
-        "de": "de/broadsign-publish/",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/broadsign-publish/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "broadsignReach": {
-        "js": "broadsign-reach",
-        "en": "broadsign-reach/",
-        "fr": "fr/broadsign-reach/",
-        "es": "es/broadsign-reach/",
-        "de": "de/broadsign-reach/",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/broadsign-reach/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ayudaPlatform": {
-        "js": "ayuda-platform",
-        "en": "ayuda-platform/",
-        "fr": "fr/plateforme-ayuda/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ayudaJuice": {
-        "js": "ayuda-juice",
-        "en": "ayuda-juice/",
-        "fr": "fr/ayuda-juice/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ayudaSplash": {
-        "js": "ayuda-splash",
-        "en": "ayuda-splash/",
-        "fr": "fr/ayuda-splash/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "campsite": {
-        "js": "campsite",
-        "en": "campsite/",
-        "fr": "fr/campsite/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "saas": {
-        "js": "ooh-media-software",
-        "en": "ooh-media-software/",
-        "fr": "fr/solutions-ooh/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalAirports": {
-        "js": "verticals/airports",
-        "en": "airports-digital-signage/",
-        "fr": "fr/aeroports-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalBanking": {
-        "js": "verticals/banking",
-        "en": "banking-digital-signage/",
-        "fr": "fr/banques-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-banking/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalCasino": {
-        "js": "verticals/casino",
-        "en": "casino-digital-signage/",
-        "fr": "fr/casino-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalCinema": {
-        "js": "verticals/cinema",
-        "en": "cinema-digital-signage/",
-        "fr": "fr/cinema-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-cinema/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalGasStations": {
-        "js": "verticals/gas-stations",
-        "en": "gas-stations-digital-signage/",
-        "fr": "fr/stations-service-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-gas-stations/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalHealthcare": {
-        "js": "verticals/healthcare",
-        "en": "healthcare-digital-signage/",
-        "fr": "fr/soins-sante-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-healthcare/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalHotels": {
-        "js": "verticals/hotels",
-        "en": "hotels-digital-signage/",
-        "fr": "fr/hotels-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-hospitality/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalInternalCommunications": {
-        "js": "verticals/internal-communications",
-        "en": "internal-communications-digital-signage/",
-        "fr": "fr/communications-internes-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-internal-communications/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalOutdoor": {
-        "js": "verticals/outdoor",
-        "en": "outdoor-digital-signage/",
-        "fr": "fr/exterieur-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalRetail": {
-        "js": "verticals/retail",
-        "en": "retail-digital-signage/",
-        "fr": "fr/commerce-detail-affichage-numerique/",
-        "es": "es/venta-minorista-senalizacion-digital/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalShoppingMall": {
-        "js": "verticals/shopping-malls",
-        "en": "shopping-malls-digital-signage/",
-        "fr": "fr/centres-commerciaux-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-shopping-malls/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalSmartCities": {
-        "js": "verticals/smart-cities",
-        "en": "smart-cities-digital-signage/",
-        "fr": "fr/villes-intelligentes-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "verticalTransit": {
-        "js": "verticals/transit",
-        "en": "transit-digital-signage/",
-        "fr": "fr/transports-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/vertical-transit/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "DigitalOutOfHomeMediaProgrammatically": {
-        "js": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically",
-        "en": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "includeDigitalOutOfHome": {
-        "js": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home",
-        "en": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "MobileDigitalOutOfHome": {
-        "js": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign",
-        "en": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "whatisDOOH": {
-        "js": "dsp/what-is-programmatic-digital-out-of-home",
-        "en": "dsp/what-is-programmatic-digital-out-of-home/",
-        "fr": "dsp/les-ventes-programmatiques/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouLunchLearn": {
-        "js": "dsp/thank-you-lunch-and-learn",
-        "en": "dsp/thank-you-lunch-and-learn/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouDSPEbookDOOHPlaybookForProgrammaticBuyers": {
-        "js": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
-        "en": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "resources": {
-        "js": "resources",
-        "en": "resources/",
-        "fr": "fr/ressources/",
-        "es": "es/recursos/",
-        "de": "de/ressourcen/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookAddingDigitalToYourOOHNetwork": {
-        "js": "resources/ebook-adding-digital-to-your-ooh-network",
-        "en": "ebook-adding-digital-to-your-ooh-network/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookAddingDigitalToYourOOHNetwork": {
-        "js": "resources/thank-you-ebook-adding-digital-to-your-ooh-network",
-        "en": "thank-you-ebook-adding-digital-to-your-ooh-network/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebook5CommonMistakesInDigitalSignage": {
-        "js": "resources/ebook-5-common-mistakes-in-digital-signage",
-        "en": "ebook-5-common-mistakes-in-digital-signage/",
-        "fr": "fr/ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbook5CommonMistakesInDigitalSignage": {
-        "js": "resources/thank-you-ebook-5-common-mistakes-in-digital-signage",
-        "en": "thank-you-ebook-5-common-mistakes-in-digital-signage/",
-        "fr": "fr/merci-ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebook7HabitsOfHighlyEffectiveMediaOwners": {
-        "js": "resources/ebook-7-habits-of-highly-effective-media-owners",
-        "en": "ebook-7-habits-of-highly-effective-media-owners/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbook7HabitsOfHighlyEffectiveMediaOwners": {
-        "js": "resources/thank-you-ebook-7-habits-of-highly-effective-media-owners",
-        "en": "thank-you-ebook-7-habits-of-highly-effective-media-owners/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-        "js": "resources/ebook-guide-to-building-a-successful-digital-signage-network",
-        "en": "ebook-guide-to-building-a-successful-digital-signage-network/",
-        "fr": "fr/ebook-guide-creation-reseau-affichage-numerique-performant/",
-        "es": "es/ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
-        "de": "de/ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-        "js": "resources/thank-you-ebook-guide-to-building-a-successful-digital-signage-network",
-        "en": "thank-you-ebook-guide-to-building-a-successful-digital-signage-network/",
-        "fr": "fr/merci-ebook-guide-creation-reseau-affichage-numerique-performant/",
-        "es": "es/gracias-ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
-        "de": "de/vielen-dank-ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookDOOHPlaybookForProgrammaticBuyers": {
-        "js": "resources/ebook-dooh-playbook-for-programmatic-buyers",
-        "en": "ebook-dooh-playbook-for-programmatic-buyers/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookDOOHPlaybookForProgrammaticBuyers": {
-        "js": "resources/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
-        "en": "thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookDynamicAndInteractiveContent": {
-        "js": "resources/ebook-dynamic-and-interactive-content",
-        "en": "ebook-dynamic-and-interactive-content/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookDynamicAndInteractiveContent": {
-        "js": "resources/thank-you-ebook-dynamic-and-interactive-content",
-        "en": "thank-you-ebook-dynamic-and-interactive-content/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookModernizeOOHBusiness": {
-        "js": "resources/ebook-modernize-ooh-business",
-        "en": "ebook-modernize-ooh-business/",
-        "fr": "",
-        "es": "es/ebook-modernizar-empresa-ooh/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookModernizeOOHBusiness": {
-        "js": "resources/thank-you-ebook-modernize-ooh-business",
-        "en": "thank-you-ebook-modernize-ooh-business/",
-        "fr": "",
-        "es": "es/gracias-ebook-modernizar-empresa-ooh/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookMediaBuyersGuideToProgrammaticDOOH": {
-        "js": "resources/ebook-media-buyers-guide-to-programmatic-dooh",
-        "en": "ebook-media-buyers-guide-to-programmatic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookMediaBuyersGuideToProgrammaticDOOH": {
-        "js": "resources/thank-you-ebook-media-buyers-guide-to-programmatic-dooh",
-        "en": "thank-you-ebook-media-buyers-guide-to-programmatic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookIncreaseRevenueWithContextualInStoreMedia": {
-        "js": "resources/ebook-increase-revenue-with-contextual-in-store-media",
-        "en": "ebook-increase-revenue-with-contextual-in-store-media/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookIncreaseRevenueWithContextualInStoreMedia": {
-        "js": "resources/thank-you-ebook-increase-revenue-with-contextual-in-store-media",
-        "en": "thank-you-ebook-increase-revenue-with-contextual-in-store-media/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "ebookOptimizeOOHSalesThroughAutomation": {
-        "js": "resources/ebook-optimize-ooh-sales-through-automation",
-        "en": "ebook-optimize-ooh-sales-through-automation/",
-        "fr": "",
-        "es": "",
-        "de": "de/ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouEbookOptimizeOOHSalesThroughAutomation": {
-        "js": "resources/thank-you-ebook-optimize-ooh-sales-through-automation",
-        "en": "thank-you-ebook-optimize-ooh-sales-through-automation/",
-        "fr": "",
-        "es": "",
-        "de": "de/vielen-dank-ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "mediaKitAmplifyYourNextCampaign": {
-        "js": "resources/media-kit-amplify-your-next-campaign",
-        "en": "media-kit-amplify-your-next-campaign/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouMediaKitAmplifyYourNextCampaign": {
-        "js": "resources/thank-you-media-kit-amplify-your-next-campaign",
-        "en": "thank-you-media-kit-amplify-your-next-campaign/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "webinarWinterUpdate2019": {
-        "js": "resources/webinar-winter-2019-platform-update",
-        "en": "webinar-winter-2019-platform-update/",
-        "fr": "fr/webinaire-hiver-2019-mise-a-jour-plateforme/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "webinarWinterUpdate2019ES": {
-        "js": "resources/webinar-winter-2019-platform-update-es",
-        "en": "",
-        "fr": "",
-        "es": "es/seminario-web-actualizacion-plataforma-2020/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouWebinarWinterUpdate2019": {
-        "js": "resources/thank-you-webinar-winter-2019-platform-update",
-        "en": "thank-you-webinar-winter-2019-platform-update/",
-        "fr": "fr/merci-webinaire-hiver-2019-mise-a-jour-plateforme/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "webinar3Factores": {
-        "js": "resources/webinar-3-factores-que-transformaran-el-ooh-en-el-2021",
-        "en": "",
-        "fr": "",
-        "es": "es/seminario-web-3-factores-que-transformaran-el-ooh-en-el-2021/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "webinarIluminaElMundo": {
-        "js": "resources/webinar-ilumina-el-mundo",
-        "en": "",
-        "fr": "",
-        "es": "es/seminario-web-ilumina-el-mundo/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "webinar7PasosClave": {
-        "js": "resources/webinar-7-pasos-clave-para-modernizar-su-negocio-ooh",
-        "en": "",
-        "fr": "",
-        "es": "es/seminario-web-7-pasos-clave-para-modernizar-su-negocio-ooh/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
+	"index": {
+		"js": "index",
+		"en": "/",
+		"fr": "fr/",
+		"es": "es/",
+		"de": "de/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignPlatform": {
+		"js": "broadsign-platform",
+		"en": "broadsign-platform/",
+		"fr": "fr/plateforme-broadsign/",
+		"es": "",
+		"de": "",
+		"pt": "pt",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": ["demo"]
+		}
+	},
+	"broadsignAir": {
+		"js": "broadsign-air",
+		"en": "broadsign-air/",
+		"fr": "fr/broadsign-air/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": ["contact", "demo"]
+		}
+	},
+	"broadsignControl": {
+		"js": "broadsign-control",
+		"en": "broadsign-control/",
+		"fr": "fr/broadsign-control/",
+		"es": "es/broadsign-control/",
+		"de": "de/broadsign-control/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/broadsign-control/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignDirect": {
+		"js": "broadsign-direct",
+		"en": "broadsign-direct/",
+		"fr": "fr/broadsign-direct/",
+		"es": "es/broadsign-direct/",
+		"de": "de/broadsign-direct/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignPublish": {
+		"js": "broadsign-publish",
+		"en": "broadsign-publish/",
+		"fr": "fr/broadsign-publish/",
+		"es": "es/broadsign-publish/",
+		"de": "de/broadsign-publish/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/broadsign-publish/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignReach": {
+		"js": "broadsign-reach",
+		"en": "broadsign-reach/",
+		"fr": "fr/broadsign-reach/",
+		"es": "es/broadsign-reach/",
+		"de": "de/broadsign-reach/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/broadsign-reach/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ayudaPlatform": {
+		"js": "ayuda-platform",
+		"en": "ayuda-platform/",
+		"fr": "fr/plateforme-ayuda/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ayudaJuice": {
+		"js": "ayuda-juice",
+		"en": "ayuda-juice/",
+		"fr": "fr/ayuda-juice/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ayudaSplash": {
+		"js": "ayuda-splash",
+		"en": "ayuda-splash/",
+		"fr": "fr/ayuda-splash/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"campsite": {
+		"js": "campsite",
+		"en": "campsite/",
+		"fr": "fr/campsite/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"saas": {
+		"js": "ooh-media-software",
+		"en": "ooh-media-software/",
+		"fr": "fr/solutions-ooh/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalAirports": {
+		"js": "verticals/airports",
+		"en": "airports-digital-signage/",
+		"fr": "fr/aeroports-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalBanking": {
+		"js": "verticals/banking",
+		"en": "banking-digital-signage/",
+		"fr": "fr/banques-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-banking/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalCasino": {
+		"js": "verticals/casino",
+		"en": "casino-digital-signage/",
+		"fr": "fr/casino-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalCinema": {
+		"js": "verticals/cinema",
+		"en": "cinema-digital-signage/",
+		"fr": "fr/cinema-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-cinema/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalGasStations": {
+		"js": "verticals/gas-stations",
+		"en": "gas-stations-digital-signage/",
+		"fr": "fr/stations-service-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-gas-stations/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalHealthcare": {
+		"js": "verticals/healthcare",
+		"en": "healthcare-digital-signage/",
+		"fr": "fr/soins-sante-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-healthcare/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalHotels": {
+		"js": "verticals/hotels",
+		"en": "hotels-digital-signage/",
+		"fr": "fr/hotels-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-hospitality/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalInternalCommunications": {
+		"js": "verticals/internal-communications",
+		"en": "internal-communications-digital-signage/",
+		"fr": "fr/communications-internes-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-internal-communications/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalOutdoor": {
+		"js": "verticals/outdoor",
+		"en": "outdoor-digital-signage/",
+		"fr": "fr/exterieur-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalRetail": {
+		"js": "verticals/retail",
+		"en": "retail-digital-signage/",
+		"fr": "fr/commerce-detail-affichage-numerique/",
+		"es": "es/venta-minorista-senalizacion-digital/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalShoppingMall": {
+		"js": "verticals/shopping-malls",
+		"en": "shopping-malls-digital-signage/",
+		"fr": "fr/centres-commerciaux-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-shopping-malls/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalSmartCities": {
+		"js": "verticals/smart-cities",
+		"en": "smart-cities-digital-signage/",
+		"fr": "fr/villes-intelligentes-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"verticalTransit": {
+		"js": "verticals/transit",
+		"en": "transit-digital-signage/",
+		"fr": "fr/transports-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/vertical-transit/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"DigitalOutOfHomeMediaProgrammatically": {
+		"js": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically",
+		"en": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"includeDigitalOutOfHome": {
+		"js": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home",
+		"en": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"MobileDigitalOutOfHome": {
+		"js": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign",
+		"en": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"whatisDOOH": {
+		"js": "dsp/what-is-programmatic-digital-out-of-home",
+		"en": "dsp/what-is-programmatic-digital-out-of-home/",
+		"fr": "dsp/les-ventes-programmatiques/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouLunchLearn": {
+		"js": "dsp/thank-you-lunch-and-learn",
+		"en": "dsp/thank-you-lunch-and-learn/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouDSPEbookDOOHPlaybookForProgrammaticBuyers": {
+		"js": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
+		"en": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"resources": {
+		"js": "resources",
+		"en": "resources/",
+		"fr": "fr/ressources/",
+		"es": "es/recursos/",
+		"de": "de/ressourcen/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookAddingDigitalToYourOOHNetwork": {
+		"js": "resources/ebook-adding-digital-to-your-ooh-network",
+		"en": "ebook-adding-digital-to-your-ooh-network/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookAddingDigitalToYourOOHNetwork": {
+		"js": "resources/thank-you-ebook-adding-digital-to-your-ooh-network",
+		"en": "thank-you-ebook-adding-digital-to-your-ooh-network/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebook5CommonMistakesInDigitalSignage": {
+		"js": "resources/ebook-5-common-mistakes-in-digital-signage",
+		"en": "ebook-5-common-mistakes-in-digital-signage/",
+		"fr": "fr/ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbook5CommonMistakesInDigitalSignage": {
+		"js": "resources/thank-you-ebook-5-common-mistakes-in-digital-signage",
+		"en": "thank-you-ebook-5-common-mistakes-in-digital-signage/",
+		"fr": "fr/merci-ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebook7HabitsOfHighlyEffectiveMediaOwners": {
+		"js": "resources/ebook-7-habits-of-highly-effective-media-owners",
+		"en": "ebook-7-habits-of-highly-effective-media-owners/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbook7HabitsOfHighlyEffectiveMediaOwners": {
+		"js": "resources/thank-you-ebook-7-habits-of-highly-effective-media-owners",
+		"en": "thank-you-ebook-7-habits-of-highly-effective-media-owners/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
+		"js": "resources/ebook-guide-to-building-a-successful-digital-signage-network",
+		"en": "ebook-guide-to-building-a-successful-digital-signage-network/",
+		"fr": "fr/ebook-guide-creation-reseau-affichage-numerique-performant/",
+		"es": "es/ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
+		"de": "de/ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookGuideToBuildingASuccessfulDigitalSignageNetwork": {
+		"js": "resources/thank-you-ebook-guide-to-building-a-successful-digital-signage-network",
+		"en": "thank-you-ebook-guide-to-building-a-successful-digital-signage-network/",
+		"fr": "fr/merci-ebook-guide-creation-reseau-affichage-numerique-performant/",
+		"es": "es/gracias-ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
+		"de": "de/vielen-dank-ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookDOOHPlaybookForProgrammaticBuyers": {
+		"js": "resources/ebook-dooh-playbook-for-programmatic-buyers",
+		"en": "ebook-dooh-playbook-for-programmatic-buyers/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookDOOHPlaybookForProgrammaticBuyers": {
+		"js": "resources/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
+		"en": "thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookDynamicAndInteractiveContent": {
+		"js": "resources/ebook-dynamic-and-interactive-content",
+		"en": "ebook-dynamic-and-interactive-content/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookDynamicAndInteractiveContent": {
+		"js": "resources/thank-you-ebook-dynamic-and-interactive-content",
+		"en": "thank-you-ebook-dynamic-and-interactive-content/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookModernizeOOHBusiness": {
+		"js": "resources/ebook-modernize-ooh-business",
+		"en": "ebook-modernize-ooh-business/",
+		"fr": "",
+		"es": "es/ebook-modernizar-empresa-ooh/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookModernizeOOHBusiness": {
+		"js": "resources/thank-you-ebook-modernize-ooh-business",
+		"en": "thank-you-ebook-modernize-ooh-business/",
+		"fr": "",
+		"es": "es/gracias-ebook-modernizar-empresa-ooh/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookMediaBuyersGuideToProgrammaticDOOH": {
+		"js": "resources/ebook-media-buyers-guide-to-programmatic-dooh",
+		"en": "ebook-media-buyers-guide-to-programmatic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookMediaBuyersGuideToProgrammaticDOOH": {
+		"js": "resources/thank-you-ebook-media-buyers-guide-to-programmatic-dooh",
+		"en": "thank-you-ebook-media-buyers-guide-to-programmatic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookIncreaseRevenueWithContextualInStoreMedia": {
+		"js": "resources/ebook-increase-revenue-with-contextual-in-store-media",
+		"en": "ebook-increase-revenue-with-contextual-in-store-media/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookIncreaseRevenueWithContextualInStoreMedia": {
+		"js": "resources/thank-you-ebook-increase-revenue-with-contextual-in-store-media",
+		"en": "thank-you-ebook-increase-revenue-with-contextual-in-store-media/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"ebookOptimizeOOHSalesThroughAutomation": {
+		"js": "resources/ebook-optimize-ooh-sales-through-automation",
+		"en": "ebook-optimize-ooh-sales-through-automation/",
+		"fr": "",
+		"es": "",
+		"de": "de/ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouEbookOptimizeOOHSalesThroughAutomation": {
+		"js": "resources/thank-you-ebook-optimize-ooh-sales-through-automation",
+		"en": "thank-you-ebook-optimize-ooh-sales-through-automation/",
+		"fr": "",
+		"es": "",
+		"de": "de/vielen-dank-ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"mediaKitAmplifyYourNextCampaign": {
+		"js": "resources/media-kit-amplify-your-next-campaign",
+		"en": "media-kit-amplify-your-next-campaign/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouMediaKitAmplifyYourNextCampaign": {
+		"js": "resources/thank-you-media-kit-amplify-your-next-campaign",
+		"en": "thank-you-media-kit-amplify-your-next-campaign/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"webinarWinterUpdate2019": {
+		"js": "resources/webinar-winter-2019-platform-update",
+		"en": "webinar-winter-2019-platform-update/",
+		"fr": "fr/webinaire-hiver-2019-mise-a-jour-plateforme/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"webinarWinterUpdate2019ES": {
+		"js": "resources/webinar-winter-2019-platform-update-es",
+		"en": "",
+		"fr": "",
+		"es": "es/seminario-web-actualizacion-plataforma-2020/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouWebinarWinterUpdate2019": {
+		"js": "resources/thank-you-webinar-winter-2019-platform-update",
+		"en": "thank-you-webinar-winter-2019-platform-update/",
+		"fr": "fr/merci-webinaire-hiver-2019-mise-a-jour-plateforme/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"webinar3Factores": {
+		"js": "resources/webinar-3-factores-que-transformaran-el-ooh-en-el-2021",
+		"en": "",
+		"fr": "",
+		"es": "es/seminario-web-3-factores-que-transformaran-el-ooh-en-el-2021/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"webinarIluminaElMundo": {
+		"js": "resources/webinar-ilumina-el-mundo",
+		"en": "",
+		"fr": "",
+		"es": "es/seminario-web-ilumina-el-mundo/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"webinar7PasosClave": {
+		"js": "resources/webinar-7-pasos-clave-para-modernizar-su-negocio-ooh",
+		"en": "",
+		"fr": "",
+		"es": "es/seminario-web-7-pasos-clave-para-modernizar-su-negocio-ooh/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"webinarGoingTheLastMile": {
-        "js": "resources/webinar-going-the-last-mile",
-        "en": "webinar-going-the-last-mile/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
+		"js": "resources/webinar-going-the-last-mile",
+		"en": "webinar-going-the-last-mile/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 
-    "freeTrial": {
-        "js": "free-trial",
-        "en": "free-trial/",
-        "fr": "fr/essai-gratuit/",
-        "es": "es/prueba-gratuita/",
-        "de": "de/kostenlose-testversion/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouFreeTrial": {
-        "js": "thank-you-free-trial",
-        "en": "thank-you-free-trial/",
-        "fr": "fr/merci-essai-gratuit/",
-        "es": "es/gracias-prueba-gratuita/",
-        "de": "de/vielen-dank-fur-das-ausprobieren-der-kostenlosen-testversion/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "demo": {
-        "js": "request-a-demo",
-        "en": "request-a-demo/",
-        "fr": "fr/demandez-une-demo/",
-        "es": "es/solicite-una-demo/",
-        "de": "de/demo-anfordern/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouDemo": {
-        "js": "thank-you-for-requesting-demo",
-        "en": "thank-you-for-requesting-demo/",
-        "fr": "fr/merci-demo/",
-        "es": "",
-        "de": "de/vielen-dank-fur-die-anfrage-einer-demo/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "IAB2019": {
-        "js": "resources/report-opportunities-challenges-growing-programmatic-dooh",
-        "en": "report-opportunities-challenges-growing-programmatic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouIAB2019": {
-        "js": "resources/thank-you-report-opportunities-challenges-growing-programmatic-dooh",
-        "en": "thank-you-report-opportunities-challenges-growing-programmatic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "partnersMicrosoft": {
-        "js": "partners/microsoft",
-        "en": "partners/microsoft/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": [
-                "freeTrialPPC"
-            ]
-        }
-    },
-    "partnersSalesforcePlugin": {
-        "js": "partners/salesforce-plugin",
-        "en": "partners/salesforce-plugin/",
-        "fr": "fr/partenaires/extension-salesforce/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "digitalSignagePlatform": {
-        "js": "ppc/digital-signage-platform",
-        "en": "digital-signage-platform/",
-        "fr": "",
-        "es": "",
-        "de": "de/digital-signage-plattform/",
-        "nl": "nl/digital-signage-platform/",
-        "ja": "ja/digital-signage-platform/",
-        "cn": "",
-        "meta": {
-            "forms": [
-                "freeTrialPPC"
-            ]
-        }
-    },
-    "digitalSignageSoftware": {
-        "js": "ppc/digital-signage-software",
-        "en": "digital-signage-software/",
-        "fr": "",
-        "es": "es/software-senalizacion-digital/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": [
-                "freeTrialPPC"
-            ]
-        }
-    },
-    "doohForDSPs": {
-        "js": "programmatic/dooh-for-dsps",
-        "en": "dooh-for-dsps/",
-        "fr": "fr/affichage-exterieur-numerique-pour-les-plateformes-cote-demande/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "doohForMediaBuyers": {
-        "js": "programmatic/dooh-for-media-buyers",
-        "en": "dooh-for-media-buyers/",
-        "fr": "fr/affichage-exterieur-numerique-pour-les-acheteurs/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "workWithUsDSPs": {
-        "js": "programmatic/work-with-us-dsps",
-        "en": "work-with-us-dsps/",
-        "fr": "fr/travaillez-avec-nous-plateformes-cote-demande/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "workWithUsMediaBuyers": {
-        "js": "programmatic/work-with-us-media-buyers",
-        "en": "work-with-us-media-buyers/",
-        "fr": "fr/travaillez-avec-nous-acheteurs-de-medias/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "digitalSignageSoftwareCanada": {
-        "js": "seo/digital-signage-software-canada",
-        "en": "digital-signage-software-canada/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "awsFAQ": {
-        "js": "aws-faq",
-        "en": "aws-faq/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "blog": {
-        "js": "blog",
-        "en": "blog/",
-        "fr": "fr/blogue/",
-        "es": "es/blog/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "downtime": {
-        "js": "downtime",
-        "en": "downtime/",
-        "fr": "fr/temps-mort/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "careers": {
-        "js": "careers",
-        "en": "careers/",
-        "fr": "fr/carrieres/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "contact": {
-        "js": "contact",
-        "en": "contact/",
-        "fr": "fr/nous-rejoindre/",
-        "es": "es/contacto/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/contact/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "documentation": {
-        "js": "documentation",
-        "en": "documentation/",
-        "fr": "fr/documentation/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "pricing": {
-        "js": "pricing",
-        "en": "pricing/",
-        "fr": "fr/tarification/",
-        "es": "",
-        "de": "de/preise/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "privacyPolicy": {
-        "js": "privacy-policy",
-        "en": "privacy-policy/",
-        "fr": "fr/politique-de-confidentialite/",
-        "es": "es/politica-de-proteccion-de-datos/",
-        "de": "de/datenschutzrichtlinie/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticPrivacyPolicy": {
-        "js": "programmatic-privacy-policy",
-        "en": "programmatic-privacy-policy/",
-        "fr": "fr/politique-plateforme-programmatique/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticU": {
-        "js": "programmatic-u",
-        "en": "programmatic-u/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticULiteCertificateObsolete": {
-        "js": "programmatic-u-lite-certificate",
-        "en": "programmatic-u-lite-certificate/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticUMediaBuyersCertificate": {
-        "js": "programmatic-u-lite-certificate/media-buyers",
-        "en": "programmatic-u-lite-certificate/media-buyers/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticUMediaOwnersCertificate": {
-        "js": "programmatic-u-lite-certificate/media-owners",
-        "en": "programmatic-u-lite-certificate/media-owners/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "programmaticUViewCertificate": {
-        "js": "programmatic-u-lite-certificate/view-certificate",
-        "en": "programmatic-u-lite-certificate/view-certificate/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "oohFromHome": {
-        "js": "ooh-from-home",
-        "en": "ooh-from-home/",
-        "fr": "",
-        "es": "es/ooh-from-home/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V0": {
-        "js": "ooh-from-home-webinars/broadsign-publish-product-update",
-        "en": "ooh-from-home-webinars/broadsign-publish-product-update/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V1": {
-        "js": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business",
-        "en": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V2": {
-        "js": "ooh-from-home-webinars/using-programmatic-dooh",
-        "en": "ooh-from-home-webinars/using-programmatic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V3": {
-        "js": "ooh-from-home-webinars/evolving-your-business-for-programmatic",
-        "en": "ooh-from-home-webinars/evolving-your-business-for-programmatic/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V4": {
-        "js": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business",
-        "en": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V5": {
-        "js": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh",
-        "en": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V7": {
-        "js": "ooh-from-home-webinars/data-driven-and-dynamic-dooh",
-        "en": "ooh-from-home-webinars/data-driven-and-dynamic-dooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V8": {
-        "js": "ooh-from-home-webinars/optimize-ooh-sales-through-automation",
-        "en": "ooh-from-home-webinars/optimize-ooh-sales-through-automation/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V9": {
-        "js": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh",
-        "en": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V11": {
-        "js": "ooh-from-home-webinars/global-ooh-insights",
-        "en": "ooh-from-home-webinars/global-ooh-insights/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V12": {
-        "js": "ooh-from-home-webinars/dooh-is-now-a-must",
-        "en": "ooh-from-home-webinars/dooh-is-now-a-must/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "V13": {
-        "js": "ooh-from-home-webinars/demystifying-programmatic-dooh",
-        "en": "",
-        "fr": "",
-        "es": "es/ooh-from-home-webinars/desmitificando-el-dooh-programatico",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "viewOohFromHome": {
-        "js": "view-ooh-from-home",
-        "en": "view-ooh-from-home/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYou": {
-        "js": "thank-you",
-        "en": "thank-you/",
-        "fr": "fr/merci/",
-        "es": "es/gracias/",
-        "de": "de/vielen-dank/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouContact": {
-        "js": "thank-you-contact",
-        "en": "thank-you-contact/",
-        "fr": "fr/merci-contact/",
-        "es": "es/gracias-contacto/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "thankYouPricing": {
-        "js": "thank-you-pricing",
-        "en": "thank-you-pricing/",
-        "fr": "fr/merci-tarification/",
-        "es": "",
-        "de": "de/vielen-dank-preise/",
-        "nl": "",
-        "ja": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    },
-    "training": {
-        "js": "training",
-        "en": "training/",
-        "fr": "fr/formation/",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/training/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "whoWeAre": {
-        "js": "who-we-are",
-        "en": "who-we-are/",
-        "fr": "fr/qui-nous-sommes/",
-        "es": "es/quienes-somos/",
-        "de": "",
-        "nl": "",
-        "ja": "",
-        "cn": "cn/who-we-are/",
-        "meta": {
-            "forms": []
-        }
-    },
-    "sitemap": {
-        "js": "sitemap",
-        "en": "sitemap/",
-        "fr": "",
-        "es": "",
-        "de": "",
-        "nl": "",
-        "cn": "",
-        "meta": {
-            "forms": []
-        }
-    }
+	"freeTrial": {
+		"js": "free-trial",
+		"en": "free-trial/",
+		"fr": "fr/essai-gratuit/",
+		"es": "es/prueba-gratuita/",
+		"de": "de/kostenlose-testversion/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouFreeTrial": {
+		"js": "thank-you-free-trial",
+		"en": "thank-you-free-trial/",
+		"fr": "fr/merci-essai-gratuit/",
+		"es": "es/gracias-prueba-gratuita/",
+		"de": "de/vielen-dank-fur-das-ausprobieren-der-kostenlosen-testversion/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"demo": {
+		"js": "request-a-demo",
+		"en": "request-a-demo/",
+		"fr": "fr/demandez-une-demo/",
+		"es": "es/solicite-una-demo/",
+		"de": "de/demo-anfordern/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouDemo": {
+		"js": "thank-you-for-requesting-demo",
+		"en": "thank-you-for-requesting-demo/",
+		"fr": "fr/merci-demo/",
+		"es": "",
+		"de": "de/vielen-dank-fur-die-anfrage-einer-demo/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"IAB2019": {
+		"js": "resources/report-opportunities-challenges-growing-programmatic-dooh",
+		"en": "report-opportunities-challenges-growing-programmatic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouIAB2019": {
+		"js": "resources/thank-you-report-opportunities-challenges-growing-programmatic-dooh",
+		"en": "thank-you-report-opportunities-challenges-growing-programmatic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"partnersMicrosoft": {
+		"js": "partners/microsoft",
+		"en": "partners/microsoft/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": ["freeTrialPPC"]
+		}
+	},
+	"partnersSalesforcePlugin": {
+		"js": "partners/salesforce-plugin",
+		"en": "partners/salesforce-plugin/",
+		"fr": "fr/partenaires/extension-salesforce/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"digitalSignagePlatform": {
+		"js": "ppc/digital-signage-platform",
+		"en": "digital-signage-platform/",
+		"fr": "",
+		"es": "",
+		"de": "de/digital-signage-plattform/",
+		"pt": "",
+		"nl": "nl/digital-signage-platform/",
+		"ja": "ja/digital-signage-platform/",
+		"cn": "",
+		"meta": {
+			"forms": ["freeTrialPPC"]
+		}
+	},
+	"digitalSignageSoftware": {
+		"js": "ppc/digital-signage-software",
+		"en": "digital-signage-software/",
+		"fr": "",
+		"es": "es/software-senalizacion-digital/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": ["freeTrialPPC"]
+		}
+	},
+	"doohForDSPs": {
+		"js": "programmatic/dooh-for-dsps",
+		"en": "dooh-for-dsps/",
+		"fr": "fr/affichage-exterieur-numerique-pour-les-plateformes-cote-demande/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"doohForMediaBuyers": {
+		"js": "programmatic/dooh-for-media-buyers",
+		"en": "dooh-for-media-buyers/",
+		"fr": "fr/affichage-exterieur-numerique-pour-les-acheteurs/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"workWithUsDSPs": {
+		"js": "programmatic/work-with-us-dsps",
+		"en": "work-with-us-dsps/",
+		"fr": "fr/travaillez-avec-nous-plateformes-cote-demande/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"workWithUsMediaBuyers": {
+		"js": "programmatic/work-with-us-media-buyers",
+		"en": "work-with-us-media-buyers/",
+		"fr": "fr/travaillez-avec-nous-acheteurs-de-medias/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"digitalSignageSoftwareCanada": {
+		"js": "seo/digital-signage-software-canada",
+		"en": "digital-signage-software-canada/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"awsFAQ": {
+		"js": "aws-faq",
+		"en": "aws-faq/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"blog": {
+		"js": "blog",
+		"en": "blog/",
+		"fr": "fr/blogue/",
+		"es": "es/blog/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"downtime": {
+		"js": "downtime",
+		"en": "downtime/",
+		"fr": "fr/temps-mort/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"careers": {
+		"js": "careers",
+		"en": "careers/",
+		"fr": "fr/carrieres/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"contact": {
+		"js": "contact",
+		"en": "contact/",
+		"fr": "fr/nous-rejoindre/",
+		"es": "es/contacto/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/contact/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"documentation": {
+		"js": "documentation",
+		"en": "documentation/",
+		"fr": "fr/documentation/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"pricing": {
+		"js": "pricing",
+		"en": "pricing/",
+		"fr": "fr/tarification/",
+		"es": "",
+		"de": "de/preise/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"privacyPolicy": {
+		"js": "privacy-policy",
+		"en": "privacy-policy/",
+		"fr": "fr/politique-de-confidentialite/",
+		"es": "es/politica-de-proteccion-de-datos/",
+		"de": "de/datenschutzrichtlinie/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticPrivacyPolicy": {
+		"js": "programmatic-privacy-policy",
+		"en": "programmatic-privacy-policy/",
+		"fr": "fr/politique-plateforme-programmatique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticU": {
+		"js": "programmatic-u",
+		"en": "programmatic-u/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticULiteCertificateObsolete": {
+		"js": "programmatic-u-lite-certificate",
+		"en": "programmatic-u-lite-certificate/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticUMediaBuyersCertificate": {
+		"js": "programmatic-u-lite-certificate/media-buyers",
+		"en": "programmatic-u-lite-certificate/media-buyers/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticUMediaOwnersCertificate": {
+		"js": "programmatic-u-lite-certificate/media-owners",
+		"en": "programmatic-u-lite-certificate/media-owners/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"programmaticUViewCertificate": {
+		"js": "programmatic-u-lite-certificate/view-certificate",
+		"en": "programmatic-u-lite-certificate/view-certificate/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"oohFromHome": {
+		"js": "ooh-from-home",
+		"en": "ooh-from-home/",
+		"fr": "",
+		"es": "es/ooh-from-home/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V0": {
+		"js": "ooh-from-home-webinars/broadsign-publish-product-update",
+		"en": "ooh-from-home-webinars/broadsign-publish-product-update/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V1": {
+		"js": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business",
+		"en": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V2": {
+		"js": "ooh-from-home-webinars/using-programmatic-dooh",
+		"en": "ooh-from-home-webinars/using-programmatic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V3": {
+		"js": "ooh-from-home-webinars/evolving-your-business-for-programmatic",
+		"en": "ooh-from-home-webinars/evolving-your-business-for-programmatic/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V4": {
+		"js": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business",
+		"en": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V5": {
+		"js": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh",
+		"en": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V7": {
+		"js": "ooh-from-home-webinars/data-driven-and-dynamic-dooh",
+		"en": "ooh-from-home-webinars/data-driven-and-dynamic-dooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V8": {
+		"js": "ooh-from-home-webinars/optimize-ooh-sales-through-automation",
+		"en": "ooh-from-home-webinars/optimize-ooh-sales-through-automation/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V9": {
+		"js": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh",
+		"en": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V11": {
+		"js": "ooh-from-home-webinars/global-ooh-insights",
+		"en": "ooh-from-home-webinars/global-ooh-insights/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V12": {
+		"js": "ooh-from-home-webinars/dooh-is-now-a-must",
+		"en": "ooh-from-home-webinars/dooh-is-now-a-must/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"V13": {
+		"js": "ooh-from-home-webinars/demystifying-programmatic-dooh",
+		"en": "",
+		"fr": "",
+		"es": "es/ooh-from-home-webinars/desmitificando-el-dooh-programatico",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"viewOohFromHome": {
+		"js": "view-ooh-from-home",
+		"en": "view-ooh-from-home/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYou": {
+		"js": "thank-you",
+		"en": "thank-you/",
+		"fr": "fr/merci/",
+		"es": "es/gracias/",
+		"de": "de/vielen-dank/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouContact": {
+		"js": "thank-you-contact",
+		"en": "thank-you-contact/",
+		"fr": "fr/merci-contact/",
+		"es": "es/gracias-contacto/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouPricing": {
+		"js": "thank-you-pricing",
+		"en": "thank-you-pricing/",
+		"fr": "fr/merci-tarification/",
+		"es": "",
+		"de": "de/vielen-dank-preise/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"training": {
+		"js": "training",
+		"en": "training/",
+		"fr": "fr/formation/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/training/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"whoWeAre": {
+		"js": "who-we-are",
+		"en": "who-we-are/",
+		"fr": "fr/qui-nous-sommes/",
+		"es": "es/quienes-somos/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "cn/who-we-are/",
+		"meta": {
+			"forms": []
+		}
+	},
+	"sitemap": {
+		"js": "sitemap",
+		"en": "sitemap/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	}
 }
