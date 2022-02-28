@@ -1274,7 +1274,7 @@
 			"forms": []
 		}
 	},
-	"security-statement": {
+	"securityStatement": {
 		"js": "security-statement",
 		"en": "security-statement/",
 		"fr": "",
