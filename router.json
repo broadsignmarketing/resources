@@ -1274,6 +1274,20 @@
 			"forms": []
 		}
 	},
+	"security-statement": {
+		"js": "security-statement",
+		"en": "security-statement/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"V0": {
 		"js": "ooh-from-home-webinars/broadsign-publish-product-update",
 		"en": "ooh-from-home-webinars/broadsign-publish-product-update/",
