@@ -1277,9 +1277,9 @@
 	"securityStatement": {
 		"js": "security-statement",
 		"en": "security-statement/",
-		"fr": "",
-		"es": "",
-		"de": "",
+		"fr": "fr/declaration-securite/",
+		"es": "es/declaracion-seguridad/",
+		"de": "de/sicherheitserklarung/",
 		"pt": "",
 		"nl": "",
 		"ja": "",
