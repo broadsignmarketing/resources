@@ -853,6 +853,20 @@
 			"forms": []
 		}
 	},
+	"webinarLastTrueMassMedium": {
+		"js": "resources/webinar-last-true-mass-medium",
+		"en": "webinar-last-true-mass-medium/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 
 	"freeTrial": {
 		"js": "free-trial",
