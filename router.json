@@ -868,6 +868,21 @@
 		}
 	},
 
+	"webinarPDOOH2022": {
+		"js": "resources/webinar-pdooh-2022",
+		"en": "webinar-pdooh-2022/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
 	"freeTrial": {
 		"js": "free-trial",
 		"en": "free-trial/",
