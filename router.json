@@ -24,7 +24,12 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": ["demo"]
+			"forms": [
+				{
+					"name": "broadsignPlatform",
+					"modal": true
+				}
+			]
 		}
 	},
 	"broadsignAir": {
@@ -38,7 +43,16 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": ["contact", "demo"]
+			"forms": [
+				{
+					"name": "contact",
+					"modal": true
+				},
+				{
+					"name": "demo",
+					"modal": true
+				}
+			]
 		}
 	},
 	"broadsignControl": {
@@ -66,7 +80,12 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": []
+			"forms": [
+				{
+					"name": "broadsignPlatform",
+					"modal": true
+				}
+			]
 		}
 	},
 	"broadsignPublish": {
@@ -908,7 +927,7 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": []
+			"forms": [{ "name": "freeTrial" }]
 		}
 	},
 	"thankYouFreeTrial": {
@@ -992,7 +1011,11 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": ["freeTrialPPC"]
+			"forms": [
+				{
+					"name": "freeTrialPPC"
+				}
+			]
 		}
 	},
 	"partnersSalesforcePlugin": {
@@ -1020,7 +1043,12 @@
 		"ja": "ja/digital-signage-platform/",
 		"cn": "",
 		"meta": {
-			"forms": ["freeTrialPPC"]
+			"forms": [
+				{
+					"name": "freeTrialPPC",
+					"modal": true
+				}
+			]
 		}
 	},
 	"digitalSignageSoftware": {
@@ -1034,7 +1062,11 @@
 		"ja": "",
 		"cn": "",
 		"meta": {
-			"forms": ["freeTrialPPC"]
+			"forms": [
+				{
+					"name": "freeTrialPPC"
+				}
+			]
 		}
 	},
 	"doohForDSPs": {
