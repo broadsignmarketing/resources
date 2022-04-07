@@ -867,6 +867,20 @@
 			"forms": []
 		}
 	},
+	"thankYouWebinarLastTrueMassMedium": {
+		"js": "resources/thank-you-webinar-last-true-mass-medium",
+		"en": "thank-you-webinar-last-true-mass-medium/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 
 	"webinarPDOOH2022": {
 		"js": "resources/webinar-pdooh-2022",
