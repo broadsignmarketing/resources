@@ -1,48 +1,48 @@
 {
-    "EBook7Habits": {
-        "Title": "Los 7 hábitos de los propietarios de medios DOOH altamente efectivos",
-        "CTA": "Descarga nuestro ebook"
-    },
-    "EBookSuccessfulNetwork": {
-        "Title": "La guía completa para construir una red de señalización digital exitosa",
-        "CTA": "Descarga nuestro ebook"
-    },
-    "MediaKitAmplify": {
-        "Title": "Amplifique su próxima campaña con DOOH programático",
-        "CTA": "Explore nuestros kits de medios"
-    },
-    "EBookAddingDigitalToYourOOHNetwork": {
-        "Title": "",
-        "CTA": ""
-    },
-    "EBookCampsiteAddRealWorldKick": {
-        "Title": "",
-        "CTA": "",
-        "URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
-    },
-    "EBookDOOHPlaybook": {
-        "Title": "",
-        "CTA": ""
-    },
-    "EBookInteractiveContent": {
-        "Title": "",
-        "CTA": ""
-    },
-    "EBookModernizeOOHBusiness": {
-        "Title": "",
-        "CTA": ""
-    },
-    "EBookOptimizeOOHSalesThroughAutomation": {
-        "title": "",
-        "tagline": "",
-        "cta": ""
-    },
-    "ProgrammaticU": {
-        "Title": "",
-        "CTA": ""
-    },
-    "ReportIABAudienceResearch": {
-        "Title": "",
-        "CTA": ""
-    }
+	"EBook7Habits": {
+		"Title": "Los 7 hábitos de los propietarios de medios DOOH altamente efectivos",
+		"CTA": "Descarga nuestro ebook"
+	},
+	"EBookSuccessfulNetwork": {
+		"Title": "La guía completa para construir una red de señalización digital exitosa",
+		"CTA": "Descarga nuestro ebook"
+	},
+	"MediaKitAmplify": {
+		"Title": "Amplifique su próxima campaña con DOOH programático",
+		"CTA": "Explore nuestros kits de medios"
+	},
+	"EBookAddingDigitalToYourOOHNetwork": {
+		"Title": "",
+		"CTA": ""
+	},
+	"EBookCampsiteAddRealWorldKick": {
+		"Title": "",
+		"CTA": "",
+		"URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
+	},
+	"EBookDOOHPlaybook": {
+		"Title": "",
+		"CTA": ""
+	},
+	"EBookInteractiveContent": {
+		"Title": "",
+		"CTA": ""
+	},
+	"EBookModernizeOOHBusiness": {
+		"Title": "Cómo modernizar su negocio de OOH tradicional",
+		"CTA": "Descargar mi guía"
+	},
+	"EBookOptimizeOOHSalesThroughAutomation": {
+		"title": "",
+		"tagline": "",
+		"cta": ""
+	},
+	"ProgrammaticU": {
+		"Title": "",
+		"CTA": ""
+	},
+	"ReportIABAudienceResearch": {
+		"Title": "",
+		"CTA": ""
+	}
 }
