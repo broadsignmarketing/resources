@@ -368,6 +368,22 @@
 			"forms": []
 		}
 	},
+
+	"event202205BroadsignFete": {
+		"js": "events/2022-05-broadsign-fete",
+		"en": "broadsign-fete-barcelona",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
 	"DigitalOutOfHomeMediaProgrammatically": {
 		"js": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically",
 		"en": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically/",
