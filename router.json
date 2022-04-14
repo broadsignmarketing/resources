@@ -117,9 +117,9 @@
 		}
 	},
 	"ayudaPlatform": {
-		"js": "ayuda-platform",
-		"en": "ayuda-platform/",
-		"fr": "fr/plateforme-ayuda/",
+		"js": "broadsign-ayuda",
+		"en": "broadsign-ayuda/",
+		"fr": "fr/broadsign-ayuda/",
 		"es": "",
 		"de": "",
 		"pt": "",
