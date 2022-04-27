@@ -1034,20 +1034,6 @@
 			]
 		}
 	},
-	"partnersSalesforcePlugin": {
-		"js": "partners/salesforce-plugin",
-		"en": "partners/salesforce-plugin/",
-		"fr": "fr/partenaires/extension-salesforce/",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
 	"digitalSignagePlatform": {
 		"js": "ppc/digital-signage-platform",
 		"en": "digital-signage-platform/",
