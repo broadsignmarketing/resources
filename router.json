@@ -1604,6 +1604,20 @@
 			"forms": []
 		}
 	},
+	"events": {
+		"js": "events",
+		"en": "events/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"training": {
 		"js": "training",
 		"en": "training/",
