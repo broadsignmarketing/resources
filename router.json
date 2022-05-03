@@ -371,7 +371,22 @@
 
 	"event202205BroadsignFete": {
 		"js": "events/2022-05-broadsign-fete",
-		"en": "broadsign-fete-barcelona",
+		"en": "broadsign-fete-barcelona/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
+	"systemOnChip": {
+		"js": "system-on-chip",
+		"en": "system-on-chip/",
 		"fr": "",
 		"es": "",
 		"de": "",
