@@ -946,6 +946,20 @@
 			"forms": []
 		}
 	},
+	"webinarBestPracticesPDOOHCampaign": {
+		"js": "resources/webinar-best-practices-pdooh-campaign",
+		"en": "webinar-best-practices-pdooh-campaign/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 
 	"freeTrial": {
 		"js": "free-trial",
