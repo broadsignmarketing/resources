@@ -116,7 +116,7 @@
 			"forms": []
 		}
 	},
-	"ayudaPlatform": {
+	"broadsignAyuda": {
 		"js": "broadsign-ayuda",
 		"en": "broadsign-ayuda/",
 		"fr": "fr/broadsign-ayuda/",
@@ -148,20 +148,6 @@
 		"js": "ayuda-splash",
 		"en": "ayuda-splash/",
 		"fr": "fr/ayuda-splash/",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"campsite": {
-		"js": "campsite",
-		"en": "campsite/",
-		"fr": "fr/campsite/",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -364,6 +350,51 @@
 		"nl": "",
 		"ja": "",
 		"cn": "cn/vertical-transit/",
+		"meta": {
+			"forms": []
+		}
+	},
+
+	"launchPDOOHCampaign": {
+		"js": "launch-pdooh-campaign",
+		"en": "launch-pdooh-campaign/",
+		"fr": "fr/lancez-campagne-programmatique/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
+	"broadsignAds": {
+		"js": "broadsign-ads",
+		"en": "broadsign-ads/",
+		"fr": "fr/broadsign-ads/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
+	"dspPartners": {
+		"js": "dsp-partners",
+		"en": "dsp-partners/",
+		"fr": "fr/partenaires-dsp/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
 		"meta": {
 			"forms": []
 		}
@@ -995,6 +1026,48 @@
 		"fr": "fr/demandez-une-demo/",
 		"es": "es/solicite-una-demo/",
 		"de": "de/demo-anfordern/",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"bookDemo": {
+		"js": "book-demo",
+		"en": "book-demo/",
+		"fr": "fr/reserver-demo/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"scheduleDemo": {
+		"js": "schedule-demo",
+		"en": "schedule-demo/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"requestAccess": {
+		"js": "request-access",
+		"en": "request-access/",
+		"fr": "fr/demander-acces/",
+		"es": "",
+		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",

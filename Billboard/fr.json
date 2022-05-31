@@ -1,72 +1,72 @@
 {
-    "BigVoiceAward": {
-        "text": "Aimerais-tu remporter ta propre campagne d'affichage ?",
-        "cta": "Soumettre ta candidature",
-        "url": "https://campsiteproject.com/locale-et-vocale"
-    },
-    "SOC2": {
-        "title": "Assurez la sécurité de votre réseau",
-        "text": "Protégez votre réseau d’affichage et vos données des attaques à l’aide de fonctionnalités d’alerte et de systèmes de surveillance de premier plan.",
-        "cta": "En apprendre davantage"
-    },
-    "ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-        "text": "Vous voulez apprendre comment bâtir un réseau d’affichage numérique performant ?",
-        "cta": "Téléchargez notre livre électronique"
-    },
-    "EBookCampsiteAddRealWorldKick": {
-        "Title": "Ajoutez une touche <em>concrète</em> à votre publicité numérique",
-        "CTA": "Télécharger notre guide",
-        "URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
-    },
-    "EBook5MistakesToAvoid": {
-        "text": "Désirez-vous en savoir plus sur Broadsign Publish?",
-        "cta": "Téléchargez notre eBook"
-    },
-    "ProgrammaticU": {
-        "title": "Pas besoin d'un doctorat pour tirer profit de l'affichage numérique extérieur – <b>mais nos leçons peuvent vous aider</b>",
-        "cta": "Apprenez comment"
-    },
-    "EBook7Habits": {
-        "title": "",
-        "cta": ""
-    },
-    "EBookAddingDigitalToYourOOHNetwork": {
-        "title": "",
-        "cta": ""
-    },
-    "EBookDOOHPlaybook": {
-        "text": "",
-        "cta": ""
-    },
-    "EBookInteractiveContent": {
-        "title": "",
-        "cta": ""
-    },
-    "EBookModernizeOOHBusiness": {
-        "title": "",
-        "cta": ""
-    },
-    "EBookOptimizeOOHSalesThroughAutomation": {
-        "title": "",
-        "tagline": "",
-        "cta": ""
-    },
-    "MediaKitAmplify": {
-        "title": "",
-        "cta": ""
-    },
-    "ProgrammaticUMediaBuyers": {
-        "title": "",
-        "cta": ""
-    },
-    "ProgrammaticUMediaOwners": {
-        "title": "",
-        "cta": ""
-    },
-    "WebinarControl13": {
-        "cta": ""
-    },
-    "WebinarDirect": {
-        "cta": ""
-    }
+	"BigVoiceAward": {
+		"text": "Aimerais-tu remporter ta propre campagne d'affichage ?",
+		"cta": "Soumettre ta candidature",
+		"url": "https://campsiteproject.com/locale-et-vocale"
+	},
+	"SOC2": {
+		"title": "Assurez la sécurité de votre réseau",
+		"text": "Protégez votre réseau d'affichage et vos données des attaques à l'aide de fonctionnalités d'alerte et de systèmes de surveillance de premier plan.",
+		"cta": "En apprendre davantage"
+	},
+	"ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
+		"text": "Vous voulez apprendre comment bâtir un réseau d'affichage numérique performant ?",
+		"cta": "Téléchargez notre livre électronique"
+	},
+	"EBookCampsiteAddRealWorldKick": {
+		"Title": "Ajoutez une touche <em>concrète</em> à votre publicité numérique",
+		"CTA": "Télécharger notre guide",
+		"URL": "https://campsiteproject.com/ebook-digital-advertising-real-world-agency"
+	},
+	"EBook5MistakesToAvoid": {
+		"text": "Désirez-vous en savoir plus sur Broadsign Publish?",
+		"cta": "Téléchargez notre eBook"
+	},
+	"ProgrammaticU": {
+		"title": "Pas besoin d'un doctorat pour tirer profit de l'affichage numérique extérieur – <b>mais nos leçons peuvent vous aider</b>",
+		"cta": "Apprenez comment"
+	},
+	"EBook7Habits": {
+		"title": "",
+		"cta": ""
+	},
+	"EBookAddingDigitalToYourOOHNetwork": {
+		"title": "",
+		"cta": ""
+	},
+	"EBookDOOHPlaybook": {
+		"text": "",
+		"cta": ""
+	},
+	"EBookInteractiveContent": {
+		"title": "",
+		"cta": ""
+	},
+	"EBookModernizeOOHBusiness": {
+		"title": "",
+		"cta": ""
+	},
+	"EBookOptimizeOOHSalesThroughAutomation": {
+		"title": "",
+		"tagline": "",
+		"cta": ""
+	},
+	"MediaKitAmplify": {
+		"title": "",
+		"cta": ""
+	},
+	"ProgrammaticUMediaBuyers": {
+		"title": "",
+		"cta": ""
+	},
+	"ProgrammaticUMediaOwners": {
+		"title": "",
+		"cta": ""
+	},
+	"WebinarControl13": {
+		"cta": ""
+	},
+	"WebinarDirect": {
+		"cta": ""
+	}
 }
