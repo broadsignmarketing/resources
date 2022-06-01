@@ -13,6 +13,25 @@
 			"forms": []
 		}
 	},
+	"broadsignExpands": {
+		"js": "broadsign-expands-programmatic-dooh-portfolio",
+		"en": "broadsign-expands-programmatic-dooh-portfolio/",
+		"fr": "fr/broadsign-elargit-son-portfolio/",
+		"es": "",
+		"de": "",
+		"pt": "pt",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": [
+				{
+					"name": "broadsignPlatform",
+					"modal": true
+				}
+			]
+		}
+	},
 	"broadsignPlatform": {
 		"js": "broadsign-platform",
 		"en": "broadsign-platform/",
