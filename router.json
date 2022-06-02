@@ -384,6 +384,48 @@
 			"forms": []
 		}
 	},
+	"broadsignAdsOurStory": {
+		"js": "broadsign-ads-our-story",
+		"en": "broadsign-ads/our-story/",
+		"fr": "fr/broadsign-ads/notre-histoire/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignAdsInventory": {
+		"js": "broadsign-ads-inventory",
+		"en": "broadsign-ads/inventory/",
+		"fr": "fr/broadsign-ads/stocks/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignAdsAudiences": {
+		"js": "broadsign-ads-audiences",
+		"en": "broadsign-ads/audiences/",
+		"fr": "fr/broadsign-ads/public/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 
 	"dspPartners": {
 		"js": "dsp-partners",
@@ -1668,6 +1710,34 @@
 		"en": "thank-you-contact/",
 		"fr": "fr/merci-contact/",
 		"es": "es/gracias-contacto/",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouBookDemo": {
+		"js": "thank-you-book-demo",
+		"en": "thank-you-book-demo/",
+		"fr": "fr/merci-reserver-demo/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouLetsConnect": {
+		"js": "thank-you-lets-connect",
+		"en": "thank-you-lets-connect/",
+		"fr": "fr/merci-faisons-equipe/",
+		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
