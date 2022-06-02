@@ -1733,6 +1733,20 @@
 			"forms": []
 		}
 	},
+	"thankYouBookDemo": {
+		"js": "thank-you-broadsign-ads-book-demo",
+		"en": "thank-you-broadsign-ads-book-demo/",
+		"fr": "fr/merci-broadsign-ads-reserver-demo/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"thankYouBroadsignAdsBookDemo": {
 		"js": "thank-you-broadsign-ads-book-demo",
 		"en": "thank-you-broadsign-ads-book-demo/",
