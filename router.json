@@ -1719,10 +1719,10 @@
 			"forms": []
 		}
 	},
-	"thankYouBookDemo": {
-		"js": "thank-you-book-demo",
-		"en": "thank-you-book-demo/",
-		"fr": "fr/merci-reserver-demo/",
+	"thankYouLetsConnect": {
+		"js": "thank-you-lets-connect",
+		"en": "thank-you-lets-connect/",
+		"fr": "fr/merci-faisons-equipe/",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1733,10 +1733,38 @@
 			"forms": []
 		}
 	},
-	"thankYouLetsConnect": {
-		"js": "thank-you-lets-connect",
-		"en": "thank-you-lets-connect/",
-		"fr": "fr/merci-faisons-equipe/",
+	"thankYouBroadsignAdsBookDemo": {
+		"js": "thank-you-broadsign-ads-book-demo",
+		"en": "thank-you-broadsign-ads-book-demo/",
+		"fr": "fr/merci-broadsign-ads-reserver-demo/",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouBroadsignAdsScheduleDemo": {
+		"js": "thank-you-broadsign-ads-schedule-demo",
+		"en": "thank-you-broadsign-ads-schedule-demo/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"thankYouBroadsignAdsRequestAccess": {
+		"js": "thank-you-broadsign-ads-request-access",
+		"en": "thank-you-broadsign-ads-request-access/",
+		"fr": "fr/merci-broadsign-ads-demander-acces/",
 		"es": "",
 		"de": "",
 		"pt": "",
