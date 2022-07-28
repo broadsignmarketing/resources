@@ -610,11 +610,11 @@
 		}
 	},
 	"resources": {
-		"js": "resources",
-		"en": "resources/",
-		"fr": "fr/ressources/",
-		"es": "es/recursos/",
-		"de": "de/ressourcen/",
+		"js": "",
+		"en": "https://broadsign.com/resources",
+		"fr": "https://broadsign.com/resources/fr",
+		"es": "https://broadsign.com/resources/es",
+		"de": "https://broadsign.com/resources/de",
 		"pt": "",
 		"nl": "",
 		"ja": "",
