@@ -243,6 +243,21 @@
 			"forms": []
 		}
 	},
+	"verticalEV": {
+		"js": "verticals/ev",
+		"en": "electric-charging-stations-digital-signage/",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"verticalGasStations": {
 		"js": "verticals/gas-stations",
 		"en": "gas-stations-digital-signage/",
