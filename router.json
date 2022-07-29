@@ -2,22 +2,22 @@
 	"index": {
 		"js": "index",
 		"en": "/",
-		"fr": "fr/",
-		"es": "es/",
-		"de": "de/",
+		"fr": "fr",
+		"es": "es",
+		"de": "de",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/",
+		"cn": "cn",
 		"meta": {
 			"forms": []
 		}
 	},
 	"broadsignPlatform": {
 		"js": "broadsign-platform",
-		"en": "broadsign-platform/",
-		"fr": "fr/plateforme-broadsign/",
+		"en": "broadsign-platform",
+		"fr": "fr/plateforme-broadsign",
 		"es": "",
 		"de": "",
 		"pt": "pt",
@@ -36,8 +36,8 @@
 	},
 	"broadsignAir": {
 		"js": "broadsign-air",
-		"en": "broadsign-air/",
-		"fr": "fr/broadsign-air/",
+		"en": "broadsign-air",
+		"fr": "fr/broadsign-air",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -60,25 +60,25 @@
 	},
 	"broadsignControl": {
 		"js": "broadsign-control",
-		"en": "broadsign-control/",
-		"fr": "fr/broadsign-control/",
-		"es": "es/broadsign-control/",
-		"de": "de/broadsign-control/",
+		"en": "broadsign-control",
+		"fr": "fr/broadsign-control",
+		"es": "es/broadsign-control",
+		"de": "de/broadsign-control",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-control/",
+		"cn": "cn/broadsign-control",
 		"meta": {
 			"forms": []
 		}
 	},
 	"broadsignDirect": {
 		"js": "broadsign-direct",
-		"en": "broadsign-direct/",
-		"fr": "fr/broadsign-direct/",
-		"es": "es/broadsign-direct/",
-		"de": "de/broadsign-direct/",
+		"en": "broadsign-direct",
+		"fr": "fr/broadsign-direct",
+		"es": "es/broadsign-direct",
+		"de": "de/broadsign-direct",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -95,38 +95,38 @@
 	},
 	"broadsignPublish": {
 		"js": "broadsign-publish",
-		"en": "broadsign-publish/",
-		"fr": "fr/broadsign-publish/",
-		"es": "es/broadsign-publish/",
-		"de": "de/broadsign-publish/",
+		"en": "broadsign-publish",
+		"fr": "fr/broadsign-publish",
+		"es": "es/broadsign-publish",
+		"de": "de/broadsign-publish",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-publish/",
+		"cn": "cn/broadsign-publish",
 		"meta": {
 			"forms": []
 		}
 	},
 	"broadsignReach": {
 		"js": "broadsign-reach",
-		"en": "broadsign-reach/",
-		"fr": "fr/broadsign-reach/",
-		"es": "es/broadsign-reach/",
-		"de": "de/broadsign-reach/",
+		"en": "broadsign-reach",
+		"fr": "fr/broadsign-reach",
+		"es": "es/broadsign-reach",
+		"de": "de/broadsign-reach",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-reach/",
+		"cn": "cn/broadsign-reach",
 		"meta": {
 			"forms": []
 		}
 	},
 	"broadsignAyuda": {
 		"js": "broadsign-ayuda",
-		"en": "broadsign-ayuda/",
-		"fr": "fr/broadsign-ayuda/",
+		"en": "broadsign-ayuda",
+		"fr": "fr/broadsign-ayuda",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -140,8 +140,8 @@
 	},
 	"ayudaJuice": {
 		"js": "ayuda-juice",
-		"en": "ayuda-juice/",
-		"fr": "fr/ayuda-juice/",
+		"en": "ayuda-juice",
+		"fr": "fr/ayuda-juice",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -155,8 +155,8 @@
 	},
 	"ayudaSplash": {
 		"js": "ayuda-splash",
-		"en": "ayuda-splash/",
-		"fr": "fr/ayuda-splash/",
+		"en": "ayuda-splash",
+		"fr": "fr/ayuda-splash",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -170,8 +170,8 @@
 	},
 	"saas": {
 		"js": "ooh-media-software",
-		"en": "ooh-media-software/",
-		"fr": "fr/solutions-ooh/",
+		"en": "ooh-media-software",
+		"fr": "fr/solutions-ooh",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -185,8 +185,8 @@
 	},
 	"verticalAirports": {
 		"js": "verticals/airports",
-		"en": "airports-digital-signage/",
-		"fr": "fr/aeroports-affichage-numerique/",
+		"en": "airports-digital-signage",
+		"fr": "fr/aeroports-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -200,23 +200,23 @@
 	},
 	"verticalBanking": {
 		"js": "verticals/banking",
-		"en": "banking-digital-signage/",
-		"fr": "fr/banques-affichage-numerique/",
+		"en": "banking-digital-signage",
+		"fr": "fr/banques-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-banking/",
+		"cn": "cn/vertical-banking",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalCasino": {
 		"js": "verticals/casino",
-		"en": "casino-digital-signage/",
-		"fr": "fr/casino-affichage-numerique/",
+		"en": "casino-digital-signage",
+		"fr": "fr/casino-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -230,22 +230,22 @@
 	},
 	"verticalCinema": {
 		"js": "verticals/cinema",
-		"en": "cinema-digital-signage/",
-		"fr": "fr/cinema-affichage-numerique/",
+		"en": "cinema-digital-signage",
+		"fr": "fr/cinema-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-cinema/",
+		"cn": "cn/vertical-cinema",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalEV": {
 		"js": "verticals/ev",
-		"en": "electric-charging-stations-digital-signage/",
+		"en": "electric-charging-stations-digital-signage",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -260,68 +260,68 @@
 	},
 	"verticalGasStations": {
 		"js": "verticals/gas-stations",
-		"en": "gas-stations-digital-signage/",
-		"fr": "fr/stations-service-affichage-numerique/",
+		"en": "gas-stations-digital-signage",
+		"fr": "fr/stations-service-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-gas-stations/",
+		"cn": "cn/vertical-gas-stations",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalHealthcare": {
 		"js": "verticals/healthcare",
-		"en": "healthcare-digital-signage/",
-		"fr": "fr/soins-sante-affichage-numerique/",
+		"en": "healthcare-digital-signage",
+		"fr": "fr/soins-sante-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-healthcare/",
+		"cn": "cn/vertical-healthcare",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalHotels": {
 		"js": "verticals/hotels",
-		"en": "hotels-digital-signage/",
-		"fr": "fr/hotels-affichage-numerique/",
+		"en": "hotels-digital-signage",
+		"fr": "fr/hotels-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-hospitality/",
+		"cn": "cn/vertical-hospitality",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalInternalCommunications": {
 		"js": "verticals/internal-communications",
-		"en": "internal-communications-digital-signage/",
-		"fr": "fr/communications-internes-affichage-numerique/",
+		"en": "internal-communications-digital-signage",
+		"fr": "fr/communications-internes-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-internal-communications/",
+		"cn": "cn/vertical-internal-communications",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalOutdoor": {
 		"js": "verticals/outdoor",
-		"en": "outdoor-digital-signage/",
-		"fr": "fr/exterieur-affichage-numerique/",
+		"en": "outdoor-digital-signage",
+		"fr": "fr/exterieur-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -335,9 +335,9 @@
 	},
 	"verticalRetail": {
 		"js": "verticals/retail",
-		"en": "retail-digital-signage/",
-		"fr": "fr/commerce-detail-affichage-numerique/",
-		"es": "es/venta-minorista-senalizacion-digital/",
+		"en": "retail-digital-signage",
+		"fr": "fr/commerce-detail-affichage-numerique",
+		"es": "es/venta-minorista-senalizacion-digital",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -350,23 +350,23 @@
 	},
 	"verticalShoppingMall": {
 		"js": "verticals/shopping-malls",
-		"en": "shopping-malls-digital-signage/",
-		"fr": "fr/centres-commerciaux-affichage-numerique/",
+		"en": "shopping-malls-digital-signage",
+		"fr": "fr/centres-commerciaux-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-shopping-malls/",
+		"cn": "cn/vertical-shopping-malls",
 		"meta": {
 			"forms": []
 		}
 	},
 	"verticalSmartCities": {
 		"js": "verticals/smart-cities",
-		"en": "smart-cities-digital-signage/",
-		"fr": "fr/villes-intelligentes-affichage-numerique/",
+		"en": "smart-cities-digital-signage",
+		"fr": "fr/villes-intelligentes-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -380,15 +380,15 @@
 	},
 	"verticalTransit": {
 		"js": "verticals/transit",
-		"en": "transit-digital-signage/",
-		"fr": "fr/transports-affichage-numerique/",
+		"en": "transit-digital-signage",
+		"fr": "fr/transports-affichage-numerique",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-transit/",
+		"cn": "cn/vertical-transit",
 		"meta": {
 			"forms": []
 		}
@@ -396,8 +396,8 @@
 
 	"launchPDOOHCampaign": {
 		"js": "launch-pdooh-campaign",
-		"en": "launch-pdooh-campaign/",
-		"fr": "fr/lancez-campagne-programmatique/",
+		"en": "launch-pdooh-campaign",
+		"fr": "fr/lancez-campagne-programmatique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -412,8 +412,8 @@
 
 	"broadsignAds": {
 		"js": "broadsign-ads",
-		"en": "broadsign-ads/",
-		"fr": "fr/broadsign-ads/",
+		"en": "broadsign-ads",
+		"fr": "fr/broadsign-ads",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -427,8 +427,8 @@
 	},
 	"broadsignAdsOurStory": {
 		"js": "broadsign-ads-our-story",
-		"en": "broadsign-ads/our-story/",
-		"fr": "fr/broadsign-ads/notre-histoire/",
+		"en": "broadsign-ads/our-story",
+		"fr": "fr/broadsign-ads/notre-histoire",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -442,8 +442,8 @@
 	},
 	"broadsignAdsInventory": {
 		"js": "broadsign-ads-inventory",
-		"en": "broadsign-ads/inventory/",
-		"fr": "fr/broadsign-ads/stocks/",
+		"en": "broadsign-ads/inventory",
+		"fr": "fr/broadsign-ads/stocks",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -457,8 +457,8 @@
 	},
 	"broadsignAdsAudiences": {
 		"js": "broadsign-ads-audiences",
-		"en": "broadsign-ads/audiences/",
-		"fr": "fr/broadsign-ads/public/",
+		"en": "broadsign-ads/audiences",
+		"fr": "fr/broadsign-ads/public",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -473,8 +473,8 @@
 
 	"dspPartners": {
 		"js": "dsp-partners",
-		"en": "dsp-partners/",
-		"fr": "fr/partenaires-dsp/",
+		"en": "dsp-partners",
+		"fr": "fr/partenaires-dsp",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -489,7 +489,7 @@
 
 	"event202205BroadsignFete": {
 		"js": "events/2022-05-broadsign-fete",
-		"en": "broadsign-fete-barcelona/",
+		"en": "broadsign-fete-barcelona",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -505,7 +505,7 @@
 
 	"systemOnChip": {
 		"js": "system-on-chip",
-		"en": "system-on-chip/",
+		"en": "system-on-chip",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -521,7 +521,7 @@
 
 	"DigitalOutOfHomeMediaProgrammatically": {
 		"js": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically",
-		"en": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically/",
+		"en": "dsp/how-can-i-buy-digital-out-of-home-media-programmatically",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -536,7 +536,7 @@
 	},
 	"includeDigitalOutOfHome": {
 		"js": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home",
-		"en": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home/",
+		"en": "dsp/why-your-next-programmatic-media-campaign-should-include-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -551,7 +551,7 @@
 	},
 	"MobileDigitalOutOfHome": {
 		"js": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign",
-		"en": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign/",
+		"en": "dsp/why-you-should-add-programmatically-digital-out-of-home-to-your-mobile-campaign",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -566,23 +566,8 @@
 	},
 	"whatisDOOH": {
 		"js": "dsp/what-is-programmatic-digital-out-of-home",
-		"en": "dsp/what-is-programmatic-digital-out-of-home/",
-		"fr": "dsp/les-ventes-programmatiques/",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"thankYouLunchLearn": {
-		"js": "dsp/thank-you-lunch-and-learn",
-		"en": "dsp/thank-you-lunch-and-learn/",
-		"fr": "",
+		"en": "dsp/what-is-programmatic-digital-out-of-home",
+		"fr": "dsp/les-ventes-programmatiques",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -595,8 +580,8 @@
 		}
 	},
 	"thankYouDSPEbookDOOHPlaybookForProgrammaticBuyers": {
-		"js": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
-		"en": "dsp/thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-media-buyers-guide-to-programmatic-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -609,24 +594,9 @@
 			"forms": []
 		}
 	},
-	"resources": {
-		"js": "",
-		"en": "https://broadsign.com/resources",
-		"fr": "https://broadsign.com/resources/fr",
-		"es": "https://broadsign.com/resources/es",
-		"de": "https://broadsign.com/resources/de",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
 	"ebookAddingDigitalToYourOOHNetwork": {
-		"js": "resources/ebook-adding-digital-to-your-ooh-network",
-		"en": "ebook-adding-digital-to-your-ooh-network/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-add-digital-to-your-static-ooh-network",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -640,8 +610,8 @@
 		}
 	},
 	"thankYouEbookAddingDigitalToYourOOHNetwork": {
-		"js": "resources/thank-you-ebook-adding-digital-to-your-ooh-network",
-		"en": "thank-you-ebook-adding-digital-to-your-ooh-network/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-add-digital-to-your-static-ooh-network",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -655,9 +625,9 @@
 		}
 	},
 	"ebook5CommonMistakesInDigitalSignage": {
-		"js": "resources/ebook-5-common-mistakes-in-digital-signage",
-		"en": "ebook-5-common-mistakes-in-digital-signage/",
-		"fr": "fr/ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/2018-broadsign-5-erreurs-a-eviter-ebook",
+		"fr": "https://broadsign.com/resources/ebooks/2018-broadsign-5-erreurs-a-eviter-ebook",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -670,9 +640,9 @@
 		}
 	},
 	"thankYouEbook5CommonMistakesInDigitalSignage": {
-		"js": "resources/thank-you-ebook-5-common-mistakes-in-digital-signage",
-		"en": "thank-you-ebook-5-common-mistakes-in-digital-signage/",
-		"fr": "fr/merci-ebook-5-erreurs-frequentes-contenu-affichage-numerique/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/2018-broadsign-5-erreurs-a-eviter-ebook",
+		"fr": "https://broadsign.com/resources/ebooks/2018-broadsign-5-erreurs-a-eviter-ebook",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -685,8 +655,8 @@
 		}
 	},
 	"ebook7HabitsOfHighlyEffectiveMediaOwners": {
-		"js": "resources/ebook-7-habits-of-highly-effective-media-owners",
-		"en": "ebook-7-habits-of-highly-effective-media-owners/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-7-habits-of-highly-effective-dooh-media-owners",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -700,8 +670,8 @@
 		}
 	},
 	"thankYouEbook7HabitsOfHighlyEffectiveMediaOwners": {
-		"js": "resources/thank-you-ebook-7-habits-of-highly-effective-media-owners",
-		"en": "thank-you-ebook-7-habits-of-highly-effective-media-owners/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-7-habits-of-highly-effective-dooh-media-owners",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -715,11 +685,11 @@
 		}
 	},
 	"ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-		"js": "resources/ebook-guide-to-building-a-successful-digital-signage-network",
-		"en": "ebook-guide-to-building-a-successful-digital-signage-network/",
-		"fr": "fr/ebook-guide-creation-reseau-affichage-numerique-performant/",
-		"es": "es/ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
-		"de": "de/ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/your-guide-to-building-a-successful-digital-signage-network",
+		"fr": "https://broadsign.com/resources/ressources-broadsign/le-guide-complet-pour-la-creation-dun-reseau-daffichage-numerique-performant",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/broadsign-ebook-digitalsignagenetwork-spanish",
+		"de": "https://broadsign.com/resources/ressourcen-von-broadsign/guide-fur-ein-erfolgreiches-digital-signage-netzwerk",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -730,11 +700,11 @@
 		}
 	},
 	"thankYouEbookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-		"js": "resources/thank-you-ebook-guide-to-building-a-successful-digital-signage-network",
-		"en": "thank-you-ebook-guide-to-building-a-successful-digital-signage-network/",
-		"fr": "fr/merci-ebook-guide-creation-reseau-affichage-numerique-performant/",
-		"es": "es/gracias-ebook-guia-para-construir-red-senalizacion-digital-exitosa/",
-		"de": "de/vielen-dank-ebook-guide-fur-ein-erfolgreiches-digital-signage-netzwerk/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/your-guide-to-building-a-successful-digital-signage-network",
+		"fr": "https://broadsign.com/resources/ebooks/le-guide-complet-pour-la-creation-dun-reseau-daffichage-numerique-performant",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/broadsign-ebook-digitalsignagenetwork-spanish",
+		"de": "https://broadsign.com/resources/ressourcen-von-broadsign/guide-fur-ein-erfolgreiches-digital-signage-netzwerk",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -745,8 +715,8 @@
 		}
 	},
 	"ebookDOOHPlaybookForProgrammaticBuyers": {
-		"js": "resources/ebook-dooh-playbook-for-programmatic-buyers",
-		"en": "ebook-dooh-playbook-for-programmatic-buyers/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-media-buyers-guide-to-programmatic-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -760,8 +730,8 @@
 		}
 	},
 	"thankYouEbookDOOHPlaybookForProgrammaticBuyers": {
-		"js": "resources/thank-you-ebook-dooh-playbook-for-programmatic-buyers",
-		"en": "thank-you-ebook-dooh-playbook-for-programmatic-buyers/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-media-buyers-guide-to-programmatic-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -775,8 +745,8 @@
 		}
 	},
 	"ebookDynamicAndInteractiveContent": {
-		"js": "resources/ebook-dynamic-and-interactive-content",
-		"en": "ebook-dynamic-and-interactive-content/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/2018-broadsign-dynamic-and-interactive-content-ebook",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -790,8 +760,8 @@
 		}
 	},
 	"thankYouEbookDynamicAndInteractiveContent": {
-		"js": "resources/thank-you-ebook-dynamic-and-interactive-content",
-		"en": "thank-you-ebook-dynamic-and-interactive-content/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/2018-broadsign-dynamic-and-interactive-content-ebook",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -805,10 +775,10 @@
 		}
 	},
 	"ebookModernizeOOHBusiness": {
-		"js": "resources/ebook-modernize-ooh-business",
-		"en": "ebook-modernize-ooh-business/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-modernize-your-traditional-ooh-business",
 		"fr": "",
-		"es": "es/ebook-modernizar-empresa-ooh/",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/broadsign-como-modernizar-empresa-ooh-tradicional",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -820,10 +790,10 @@
 		}
 	},
 	"thankYouEbookModernizeOOHBusiness": {
-		"js": "resources/thank-you-ebook-modernize-ooh-business",
-		"en": "thank-you-ebook-modernize-ooh-business/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-modernize-your-traditional-ooh-business",
 		"fr": "",
-		"es": "es/gracias-ebook-modernizar-empresa-ooh/",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/broadsign-como-modernizar-empresa-ooh-tradicional",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -835,8 +805,8 @@
 		}
 	},
 	"ebookMediaBuyersGuideToProgrammaticDOOH": {
-		"js": "resources/ebook-media-buyers-guide-to-programmatic-dooh",
-		"en": "ebook-media-buyers-guide-to-programmatic-dooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-media-buyers-guide-to-programmatic-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -850,8 +820,8 @@
 		}
 	},
 	"thankYouEbookMediaBuyersGuideToProgrammaticDOOH": {
-		"js": "resources/thank-you-ebook-media-buyers-guide-to-programmatic-dooh",
-		"en": "thank-you-ebook-media-buyers-guide-to-programmatic-dooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/the-media-buyers-guide-to-programmatic-digital-out-of-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -865,8 +835,8 @@
 		}
 	},
 	"ebookIncreaseRevenueWithContextualInStoreMedia": {
-		"js": "resources/ebook-increase-revenue-with-contextual-in-store-media",
-		"en": "ebook-increase-revenue-with-contextual-in-store-media/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-increase-revenue-with-contextual-in-store-media",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -880,8 +850,8 @@
 		}
 	},
 	"thankYouEbookIncreaseRevenueWithContextualInStoreMedia": {
-		"js": "resources/thank-you-ebook-increase-revenue-with-contextual-in-store-media",
-		"en": "thank-you-ebook-increase-revenue-with-contextual-in-store-media/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-increase-revenue-with-contextual-in-store-media",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -895,11 +865,11 @@
 		}
 	},
 	"ebookOptimizeOOHSalesThroughAutomation": {
-		"js": "resources/ebook-optimize-ooh-sales-through-automation",
-		"en": "ebook-optimize-ooh-sales-through-automation/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-optimize-ooh-sales-yield-through-automation",
 		"fr": "",
 		"es": "",
-		"de": "de/ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
+		"de": "https://broadsign.com/resources/ressourcen-von-broadsign/optimierung-ooh-verkauf-durch-automatisierung",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -910,86 +880,11 @@
 		}
 	},
 	"thankYouEbookOptimizeOOHSalesThroughAutomation": {
-		"js": "resources/thank-you-ebook-optimize-ooh-sales-through-automation",
-		"en": "thank-you-ebook-optimize-ooh-sales-through-automation/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ebooks/how-to-optimize-ooh-sales-yield-through-automation",
 		"fr": "",
 		"es": "",
-		"de": "de/vielen-dank-ebook-zur-optimierung-ooh-verkauf-durch-automatisierung/",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"mediaKitAmplifyYourNextCampaign": {
-		"js": "resources/media-kit-amplify-your-next-campaign",
-		"en": "media-kit-amplify-your-next-campaign/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"thankYouMediaKitAmplifyYourNextCampaign": {
-		"js": "resources/thank-you-media-kit-amplify-your-next-campaign",
-		"en": "thank-you-media-kit-amplify-your-next-campaign/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"webinarWinterUpdate2019": {
-		"js": "resources/webinar-winter-2019-platform-update",
-		"en": "webinar-winter-2019-platform-update/",
-		"fr": "fr/webinaire-hiver-2019-mise-a-jour-plateforme/",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"webinarWinterUpdate2019ES": {
-		"js": "resources/webinar-winter-2019-platform-update-es",
-		"en": "",
-		"fr": "",
-		"es": "es/seminario-web-actualizacion-plataforma-2020/",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"thankYouWebinarWinterUpdate2019": {
-		"js": "resources/thank-you-webinar-winter-2019-platform-update",
-		"en": "thank-you-webinar-winter-2019-platform-update/",
-		"fr": "fr/merci-webinaire-hiver-2019-mise-a-jour-plateforme/",
-		"es": "",
-		"de": "",
+		"de": "https://broadsign.com/resources/ressourcen-von-broadsign/optimierung-ooh-verkauf-durch-automatisierung",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1000,10 +895,10 @@
 		}
 	},
 	"webinar3Factores": {
-		"js": "resources/webinar-3-factores-que-transformaran-el-ooh-en-el-2021",
+		"js": "",
 		"en": "",
 		"fr": "",
-		"es": "es/seminario-web-3-factores-que-transformaran-el-ooh-en-el-2021/",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/3-factores-que-transformaran-el-ooh-en-el-202",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1015,10 +910,10 @@
 		}
 	},
 	"webinarIluminaElMundo": {
-		"js": "resources/webinar-ilumina-el-mundo",
+		"js": "",
 		"en": "",
 		"fr": "",
-		"es": "es/seminario-web-ilumina-el-mundo/",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/ilumina-el-mundo",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1030,10 +925,10 @@
 		}
 	},
 	"webinar7PasosClave": {
-		"js": "resources/webinar-7-pasos-clave-para-modernizar-su-negocio-ooh",
+		"js": "",
 		"en": "",
 		"fr": "",
-		"es": "es/seminario-web-7-pasos-clave-para-modernizar-su-negocio-ooh/",
+		"es": "https://broadsign.com/resources/recursos-de-broadsign/7-pasos-clave-para-modernizar-su-negocio-ooh",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1045,8 +940,8 @@
 		}
 	},
 	"webinarGoingTheLastMile": {
-		"js": "resources/webinar-going-the-last-mile",
-		"en": "webinar-going-the-last-mile/",
+		"js": "",
+		"en": "https://broadsign.com/resources/on-demand-webinars/going-the-last-mile-how-to-influence-add-to-cart-moments-with-an-in-store-digital-media-channel",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1060,23 +955,8 @@
 		}
 	},
 	"webinarLastTrueMassMedium": {
-		"js": "resources/webinar-last-true-mass-medium",
-		"en": "webinar-last-true-mass-medium/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"thankYouWebinarLastTrueMassMedium": {
-		"js": "resources/thank-you-webinar-last-true-mass-medium",
-		"en": "thank-you-webinar-last-true-mass-medium/",
+		"js": "",
+		"en": "https://broadsign.com/resources/on-demand-webinars/addressability-is-killing-mass-marketing-so-what-do-we-dooh-about-it",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1091,8 +971,8 @@
 	},
 
 	"webinarPDOOH2022": {
-		"js": "resources/webinar-pdooh-2022",
-		"en": "webinar-pdooh-2022/",
+		"js": "",
+		"en": "https://broadsign.com/resources/on-demand-webinars/highlights-from-our-latest-panel-discussion-pdooh-in-2022",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1106,8 +986,8 @@
 		}
 	},
 	"webinarBestPracticesPDOOHCampaign": {
-		"js": "resources/webinar-best-practices-pdooh-campaign",
-		"en": "webinar-best-practices-pdooh-campaign/",
+		"js": "",
+		"en": "https://broadsign.com/resources/on-demand-webinars/watch-best-practices-for-running-a-dooh-campaign",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1123,10 +1003,10 @@
 
 	"freeTrial": {
 		"js": "free-trial",
-		"en": "free-trial/",
-		"fr": "fr/essai-gratuit/",
-		"es": "es/prueba-gratuita/",
-		"de": "de/kostenlose-testversion/",
+		"en": "free-trial",
+		"fr": "fr/essai-gratuit",
+		"es": "es/prueba-gratuita",
+		"de": "de/kostenlose-testversion",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1138,10 +1018,10 @@
 	},
 	"thankYouFreeTrial": {
 		"js": "thank-you-free-trial",
-		"en": "thank-you-free-trial/",
-		"fr": "fr/merci-essai-gratuit/",
-		"es": "es/gracias-prueba-gratuita/",
-		"de": "de/vielen-dank-fur-das-ausprobieren-der-kostenlosen-testversion/",
+		"en": "thank-you-free-trial",
+		"fr": "fr/merci-essai-gratuit",
+		"es": "es/gracias-prueba-gratuita",
+		"de": "de/vielen-dank-fur-das-ausprobieren-der-kostenlosen-testversion",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1153,10 +1033,10 @@
 	},
 	"demo": {
 		"js": "request-a-demo",
-		"en": "request-a-demo/",
-		"fr": "fr/demandez-une-demo/",
-		"es": "es/solicite-una-demo/",
-		"de": "de/demo-anfordern/",
+		"en": "request-a-demo",
+		"fr": "fr/demandez-une-demo",
+		"es": "es/solicite-una-demo",
+		"de": "de/demo-anfordern",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1168,8 +1048,8 @@
 	},
 	"bookDemo": {
 		"js": "book-demo",
-		"en": "book-demo/",
-		"fr": "fr/reserver-demo/",
+		"en": "book-demo",
+		"fr": "fr/reserver-demo",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1183,7 +1063,7 @@
 	},
 	"scheduleDemo": {
 		"js": "schedule-demo",
-		"en": "schedule-demo/",
+		"en": "schedule-demo",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1198,8 +1078,8 @@
 	},
 	"requestAccess": {
 		"js": "request-access",
-		"en": "request-access/",
-		"fr": "fr/demander-acces/",
+		"en": "request-access",
+		"fr": "fr/demander-acces",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1213,40 +1093,10 @@
 	},
 	"thankYouDemo": {
 		"js": "thank-you-for-requesting-demo",
-		"en": "thank-you-for-requesting-demo/",
-		"fr": "fr/merci-demo/",
+		"en": "thank-you-for-requesting-demo",
+		"fr": "fr/merci-demo",
 		"es": "",
-		"de": "de/vielen-dank-fur-die-anfrage-einer-demo/",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"IAB2019": {
-		"js": "resources/report-opportunities-challenges-growing-programmatic-dooh",
-		"en": "report-opportunities-challenges-growing-programmatic-dooh/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"thankYouIAB2019": {
-		"js": "resources/thank-you-report-opportunities-challenges-growing-programmatic-dooh",
-		"en": "thank-you-report-opportunities-challenges-growing-programmatic-dooh/",
-		"fr": "",
-		"es": "",
-		"de": "",
+		"de": "de/vielen-dank-fur-die-anfrage-einer-demo",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1258,7 +1108,7 @@
 	},
 	"partnersMicrosoft": {
 		"js": "partners/microsoft",
-		"en": "partners/microsoft/",
+		"en": "partners/microsoft",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1277,13 +1127,13 @@
 	},
 	"digitalSignagePlatform": {
 		"js": "ppc/digital-signage-platform",
-		"en": "digital-signage-platform/",
+		"en": "digital-signage-platform",
 		"fr": "",
 		"es": "",
-		"de": "de/digital-signage-plattform/",
+		"de": "de/digital-signage-plattform",
 		"pt": "",
-		"nl": "nl/digital-signage-platform/",
-		"ja": "ja/digital-signage-platform/",
+		"nl": "nl/digital-signage-platform",
+		"ja": "ja/digital-signage-platform",
 		"id": "",
 		"cn": "",
 		"meta": {
@@ -1297,14 +1147,14 @@
 	},
 	"digitalSignageSoftware": {
 		"js": "ppc/digital-signage-software",
-		"en": "digital-signage-software/",
+		"en": "digital-signage-software",
 		"fr": "",
-		"es": "es/software-senalizacion-digital/",
+		"es": "es/software-senalizacion-digital",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
-		"id": "id/software-papan-iklan-digital/",
+		"id": "id/software-papan-iklan-digital",
 		"cn": "",
 		"meta": {
 			"forms": [
@@ -1316,8 +1166,8 @@
 	},
 	"doohForDSPs": {
 		"js": "programmatic/dooh-for-dsps",
-		"en": "dooh-for-dsps/",
-		"fr": "fr/affichage-exterieur-numerique-pour-les-plateformes-cote-demande/",
+		"en": "dooh-for-dsps",
+		"fr": "fr/affichage-exterieur-numerique-pour-les-plateformes-cote-demande",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1331,8 +1181,8 @@
 	},
 	"doohForMediaBuyers": {
 		"js": "programmatic/dooh-for-media-buyers",
-		"en": "dooh-for-media-buyers/",
-		"fr": "fr/affichage-exterieur-numerique-pour-les-acheteurs/",
+		"en": "dooh-for-media-buyers",
+		"fr": "fr/affichage-exterieur-numerique-pour-les-acheteurs",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1346,8 +1196,8 @@
 	},
 	"workWithUsDSPs": {
 		"js": "programmatic/work-with-us-dsps",
-		"en": "work-with-us-dsps/",
-		"fr": "fr/travaillez-avec-nous-plateformes-cote-demande/",
+		"en": "work-with-us-dsps",
+		"fr": "fr/travaillez-avec-nous-plateformes-cote-demande",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1361,8 +1211,8 @@
 	},
 	"workWithUsMediaBuyers": {
 		"js": "programmatic/work-with-us-media-buyers",
-		"en": "work-with-us-media-buyers/",
-		"fr": "fr/travaillez-avec-nous-acheteurs-de-medias/",
+		"en": "work-with-us-media-buyers",
+		"fr": "fr/travaillez-avec-nous-acheteurs-de-medias",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1376,7 +1226,7 @@
 	},
 	"digitalSignageSoftwareCanada": {
 		"js": "seo/digital-signage-software-canada",
-		"en": "digital-signage-software-canada/",
+		"en": "digital-signage-software-canada",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1391,7 +1241,7 @@
 	},
 	"awsFAQ": {
 		"js": "aws-faq",
-		"en": "aws-faq/",
+		"en": "aws-faq",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1404,25 +1254,11 @@
 			"forms": []
 		}
 	},
-	"blog": {
-		"js": "blog",
-		"en": "blog/",
-		"fr": "fr/blogue/",
-		"es": "es/blog/",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
+
 	"downtime": {
 		"js": "downtime",
-		"en": "downtime/",
-		"fr": "fr/temps-mort/",
+		"en": "downtime",
+		"fr": "fr/temps-mort",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1436,8 +1272,8 @@
 	},
 	"careers": {
 		"js": "careers",
-		"en": "careers/",
-		"fr": "fr/carrieres/",
+		"en": "careers",
+		"fr": "fr/carrieres",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1451,23 +1287,23 @@
 	},
 	"contact": {
 		"js": "contact",
-		"en": "contact/",
-		"fr": "fr/nous-rejoindre/",
-		"es": "es/contacto/",
+		"en": "contact",
+		"fr": "fr/nous-rejoindre",
+		"es": "es/contacto",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/contact/",
+		"cn": "cn/contact",
 		"meta": {
 			"forms": []
 		}
 	},
 	"documentation": {
 		"js": "documentation",
-		"en": "documentation/",
-		"fr": "fr/documentation/",
+		"en": "documentation",
+		"fr": "fr/documentation",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1481,10 +1317,10 @@
 	},
 	"pricing": {
 		"js": "pricing",
-		"en": "pricing/",
-		"fr": "fr/tarification/",
+		"en": "pricing",
+		"fr": "fr/tarification",
 		"es": "",
-		"de": "de/preise/",
+		"de": "de/preise",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1496,10 +1332,10 @@
 	},
 	"privacyPolicy": {
 		"js": "privacy-policy",
-		"en": "privacy-policy/",
-		"fr": "fr/politique-de-confidentialite/",
-		"es": "es/politica-de-proteccion-de-datos/",
-		"de": "de/datenschutzrichtlinie/",
+		"en": "privacy-policy",
+		"fr": "fr/politique-de-confidentialite",
+		"es": "es/politica-de-proteccion-de-datos",
+		"de": "de/datenschutzrichtlinie",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1511,8 +1347,8 @@
 	},
 	"programmaticPrivacyPolicy": {
 		"js": "programmatic-privacy-policy",
-		"en": "programmatic-privacy-policy/",
-		"fr": "fr/politique-plateforme-programmatique/",
+		"en": "programmatic-privacy-policy",
+		"fr": "fr/politique-plateforme-programmatique",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1526,67 +1362,7 @@
 	},
 	"programmaticU": {
 		"js": "programmatic-u",
-		"en": "programmatic-u/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"programmaticULiteCertificateObsolete": {
-		"js": "programmatic-u-lite-certificate",
-		"en": "programmatic-u-lite-certificate/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"programmaticUMediaBuyersCertificate": {
-		"js": "programmatic-u-lite-certificate/media-buyers",
-		"en": "programmatic-u-lite-certificate/media-buyers/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"programmaticUMediaOwnersCertificate": {
-		"js": "programmatic-u-lite-certificate/media-owners",
-		"en": "programmatic-u-lite-certificate/media-owners/",
-		"fr": "",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"programmaticUViewCertificate": {
-		"js": "programmatic-u-lite-certificate/view-certificate",
-		"en": "programmatic-u-lite-certificate/view-certificate/",
+		"en": "programmatic-u",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1601,9 +1377,9 @@
 	},
 	"oohFromHome": {
 		"js": "ooh-from-home",
-		"en": "ooh-from-home/",
+		"en": "ooh-from-home",
 		"fr": "",
-		"es": "es/ooh-from-home/",
+		"es": "es/ooh-from-home",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1616,10 +1392,10 @@
 	},
 	"securityStatement": {
 		"js": "security-statement",
-		"en": "security-statement/",
-		"fr": "fr/declaration-securite/",
-		"es": "es/declaracion-seguridad/",
-		"de": "de/sicherheitserklarung/",
+		"en": "security-statement",
+		"fr": "fr/declaration-securite",
+		"es": "es/declaracion-seguridad",
+		"de": "de/sicherheitserklarung",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1630,8 +1406,8 @@
 		}
 	},
 	"V0": {
-		"js": "ooh-from-home-webinars/broadsign-publish-product-update",
-		"en": "ooh-from-home-webinars/broadsign-publish-product-update/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/broadsign-publish-product-update-mobile-friendly-features-remote-activation-and-screen-groups",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1645,8 +1421,8 @@
 		}
 	},
 	"V1": {
-		"js": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business",
-		"en": "ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/7-key-steps-to-modernize-your-ooh-business-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1660,8 +1436,8 @@
 		}
 	},
 	"V2": {
-		"js": "ooh-from-home-webinars/using-programmatic-dooh",
-		"en": "ooh-from-home-webinars/using-programmatic-dooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/on-demand-webinars/using-programmatic-dooh-to-create-omnichannel-ad-experiences-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1675,8 +1451,8 @@
 		}
 	},
 	"V3": {
-		"js": "ooh-from-home-webinars/evolving-your-business-for-programmatic",
-		"en": "ooh-from-home-webinars/evolving-your-business-for-programmatic/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/evolve-your-business-for-programmatic-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1690,8 +1466,8 @@
 		}
 	},
 	"V4": {
-		"js": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business",
-		"en": "ooh-from-home-webinars/six-steps-to-add-digital-to-your-ooh-business/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/6-steps-to-adding-digital-to-your-ooh-business-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1705,8 +1481,8 @@
 		}
 	},
 	"V5": {
-		"js": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh",
-		"en": "ooh-from-home-webinars/how-impressions-are-measured-in-ooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/how-impressions-are-measured-in-ooh",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1720,8 +1496,8 @@
 		}
 	},
 	"V7": {
-		"js": "ooh-from-home-webinars/data-driven-and-dynamic-dooh",
-		"en": "ooh-from-home-webinars/data-driven-and-dynamic-dooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/data-driven-and-dynamic-dooh-a-case-study-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1735,8 +1511,8 @@
 		}
 	},
 	"V8": {
-		"js": "ooh-from-home-webinars/optimize-ooh-sales-through-automation",
-		"en": "ooh-from-home-webinars/optimize-ooh-sales-through-automation/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/optimize-ooh-sales-through-automation-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1750,8 +1526,8 @@
 		}
 	},
 	"V9": {
-		"js": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh",
-		"en": "ooh-from-home-webinars/fundamentals-of-programmatic-digital-ooh/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/the-fundamentals-of-programmatic-digital-ooh-ooh-from-home",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1765,8 +1541,8 @@
 		}
 	},
 	"V11": {
-		"js": "ooh-from-home-webinars/global-ooh-insights",
-		"en": "ooh-from-home-webinars/global-ooh-insights/",
+		"js": "",
+		"en": "https://broadsign.com/resources/blog/highlights-from-our-2020-global-ooh-insights-panel-3",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1780,8 +1556,8 @@
 		}
 	},
 	"V12": {
-		"js": "ooh-from-home-webinars/dooh-is-now-a-must",
-		"en": "ooh-from-home-webinars/dooh-is-now-a-must/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars/why-programmatic-ooh-is-now-a-must",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1795,10 +1571,10 @@
 		}
 	},
 	"V13": {
-		"js": "ooh-from-home-webinars/demystifying-programmatic-dooh",
+		"js": "",
 		"en": "",
 		"fr": "",
-		"es": "es/ooh-from-home-webinars/desmitificando-el-dooh-programatico",
+		"es": "https://broadsign.com/resources/youtube-all-videos/desmitificando-el-dooh-programático-un-panel-de-discusión-de-broadsign",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1810,8 +1586,8 @@
 		}
 	},
 	"viewOohFromHome": {
-		"js": "view-ooh-from-home",
-		"en": "view-ooh-from-home/",
+		"js": "",
+		"en": "https://broadsign.com/resources/ooh-from-home-webinars",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1826,10 +1602,10 @@
 	},
 	"thankYou": {
 		"js": "thank-you",
-		"en": "thank-you/",
-		"fr": "fr/merci/",
-		"es": "es/gracias/",
-		"de": "de/vielen-dank/",
+		"en": "thank-you",
+		"fr": "fr/merci",
+		"es": "es/gracias",
+		"de": "de/vielen-dank",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1841,9 +1617,9 @@
 	},
 	"thankYouContact": {
 		"js": "thank-you-contact",
-		"en": "thank-you-contact/",
-		"fr": "fr/merci-contact/",
-		"es": "es/gracias-contacto/",
+		"en": "thank-you-contact",
+		"fr": "fr/merci-contact",
+		"es": "es/gracias-contacto",
 		"de": "",
 		"pt": "",
 		"nl": "",
@@ -1856,8 +1632,8 @@
 	},
 	"thankYouLetsConnect": {
 		"js": "thank-you-lets-connect",
-		"en": "thank-you-lets-connect/",
-		"fr": "fr/merci-faisons-equipe/",
+		"en": "thank-you-lets-connect",
+		"fr": "fr/merci-faisons-equipe",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1871,8 +1647,8 @@
 	},
 	"thankYouBookDemo": {
 		"js": "thank-you-broadsign-ads-book-demo",
-		"en": "thank-you-broadsign-ads-book-demo/",
-		"fr": "fr/merci-broadsign-ads-reserver-demo/",
+		"en": "thank-you-broadsign-ads-book-demo",
+		"fr": "fr/merci-broadsign-ads-reserver-demo",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1886,8 +1662,8 @@
 	},
 	"thankYouBroadsignAdsBookDemo": {
 		"js": "thank-you-broadsign-ads-book-demo",
-		"en": "thank-you-broadsign-ads-book-demo/",
-		"fr": "fr/merci-broadsign-ads-reserver-demo/",
+		"en": "thank-you-broadsign-ads-book-demo",
+		"fr": "fr/merci-broadsign-ads-reserver-demo",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1901,7 +1677,7 @@
 	},
 	"thankYouBroadsignAdsScheduleDemo": {
 		"js": "thank-you-broadsign-ads-schedule-demo",
-		"en": "thank-you-broadsign-ads-schedule-demo/",
+		"en": "thank-you-broadsign-ads-schedule-demo",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1916,8 +1692,8 @@
 	},
 	"thankYouBroadsignAdsRequestAccess": {
 		"js": "thank-you-broadsign-ads-request-access",
-		"en": "thank-you-broadsign-ads-request-access/",
-		"fr": "fr/merci-broadsign-ads-demander-acces/",
+		"en": "thank-you-broadsign-ads-request-access",
+		"fr": "fr/merci-broadsign-ads-demander-acces",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1931,10 +1707,10 @@
 	},
 	"thankYouPricing": {
 		"js": "thank-you-pricing",
-		"en": "thank-you-pricing/",
-		"fr": "fr/merci-tarification/",
+		"en": "thank-you-pricing",
+		"fr": "fr/merci-tarification",
 		"es": "",
-		"de": "de/vielen-dank-preise/",
+		"de": "de/vielen-dank-preise",
 		"pt": "",
 		"nl": "",
 		"ja": "",
@@ -1946,7 +1722,7 @@
 	},
 	"events": {
 		"js": "events",
-		"en": "events/",
+		"en": "events",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1961,7 +1737,7 @@
 	},
 	"winFreeDOOHXCourse": {
 		"js": "win-free-doohx-course",
-		"en": "win-free-doohx-course/",
+		"en": "win-free-doohx-course",
 		"fr": "",
 		"es": "",
 		"de": "",
@@ -1976,42 +1752,88 @@
 	},
 	"training": {
 		"js": "training",
-		"en": "training/",
-		"fr": "fr/formation/",
+		"en": "training",
+		"fr": "fr/formation",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/training/",
+		"cn": "cn/training",
 		"meta": {
 			"forms": []
 		}
 	},
 	"whoWeAre": {
 		"js": "who-we-are",
-		"en": "who-we-are/",
-		"fr": "fr/qui-nous-sommes/",
-		"es": "es/quienes-somos/",
+		"en": "who-we-are",
+		"fr": "fr/qui-nous-sommes",
+		"es": "es/quienes-somos",
 		"de": "",
 		"pt": "",
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/who-we-are/",
+		"cn": "cn/who-we-are",
 		"meta": {
 			"forms": []
 		}
 	},
 	"sitemap": {
 		"js": "sitemap",
-		"en": "sitemap/",
+		"en": "sitemap",
 		"fr": "",
 		"es": "",
 		"de": "",
 		"pt": "",
 		"nl": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+
+	"blog": {
+		"js": "",
+		"en": "https://broadsign.com/resources/blog",
+		"fr": "https://broadsign.com/resources/blog-fr",
+		"es": "https://broadsign.com/resources/blog-es",
+		"de": "https://broadsign.com/resources/blog",
+		"pt": "https://broadsign.com/resources/blog-pt",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"resources": {
+		"js": "",
+		"en": "https://broadsign.com/resources",
+		"fr": "https://broadsign.com/resources/fr",
+		"es": "https://broadsign.com/resources/es",
+		"de": "https://broadsign.com/resources/de",
+		"pt": "https://broadsign.com/resources",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
+	"broadsignAdsUpdates": {
+		"js": "",
+		"en": "https://broadsign.com/resources/broadsign-ads-product-updates",
+		"fr": "https://broadsign.com/resources/broadsign-ads-product-updates",
+		"es": "https://broadsign.com/resources/broadsign-ads-product-updates",
+		"de": "https://broadsign.com/resources/broadsign-ads-product-updates",
+		"pt": "https://broadsign.com/resources/broadsign-ads-product-updates",
+		"nl": "",
+		"ja": "",
+		"id": "",
 		"cn": "",
 		"meta": {
 			"forms": []
