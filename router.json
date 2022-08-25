@@ -985,6 +985,21 @@
 			"forms": []
 		}
 	},
+	"productSummit2022": {
+		"js": "",
+		"en": "product-summit-2022",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"webinarBestPracticesPDOOHCampaign": {
 		"js": "",
 		"en": "https://resources.broadsign.com/on-demand-webinars/watch-best-practices-for-running-a-dooh-campaign",
