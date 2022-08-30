@@ -138,36 +138,6 @@
 			"forms": []
 		}
 	},
-	"ayudaJuice": {
-		"js": "ayuda-juice",
-		"en": "ayuda-juice",
-		"fr": "fr/ayuda-juice",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"ayudaSplash": {
-		"js": "ayuda-splash",
-		"en": "ayuda-splash",
-		"fr": "fr/ayuda-splash",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
 	"saas": {
 		"js": "ooh-media-software",
 		"en": "ooh-media-software",
@@ -475,22 +445,6 @@
 		"js": "dsp-partners",
 		"en": "dsp-partners",
 		"fr": "fr/partenaires-dsp",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-
-	"event202205BroadsignFete": {
-		"js": "events/2022-05-broadsign-fete",
-		"en": "broadsign-fete-barcelona",
-		"fr": "",
 		"es": "",
 		"de": "",
 		"pt": "",
@@ -1177,66 +1131,6 @@
 					"name": "freeTrialPPC"
 				}
 			]
-		}
-	},
-	"doohForDSPs": {
-		"js": "programmatic/dooh-for-dsps",
-		"en": "dooh-for-dsps",
-		"fr": "fr/affichage-exterieur-numerique-pour-les-plateformes-cote-demande",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"doohForMediaBuyers": {
-		"js": "programmatic/dooh-for-media-buyers",
-		"en": "dooh-for-media-buyers",
-		"fr": "fr/affichage-exterieur-numerique-pour-les-acheteurs",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"workWithUsDSPs": {
-		"js": "programmatic/work-with-us-dsps",
-		"en": "work-with-us-dsps",
-		"fr": "fr/travaillez-avec-nous-plateformes-cote-demande",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
-		}
-	},
-	"workWithUsMediaBuyers": {
-		"js": "programmatic/work-with-us-media-buyers",
-		"en": "work-with-us-media-buyers",
-		"fr": "fr/travaillez-avec-nous-acheteurs-de-medias",
-		"es": "",
-		"de": "",
-		"pt": "",
-		"nl": "",
-		"ja": "",
-		"id": "",
-		"cn": "",
-		"meta": {
-			"forms": []
 		}
 	},
 	"digitalSignageSoftwareCanada": {
