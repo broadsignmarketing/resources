@@ -460,9 +460,9 @@
 	"systemOnChip": {
 		"js": "system-on-chip",
 		"en": "system-on-chip",
-		"fr": "",
-		"es": "",
-		"de": "",
+		"fr": "fr/systeme-sur-puce",
+		"es": "es/system-on-chip",
+		"de": "de/system-on-chip",
 		"pt": "",
 		"nl": "",
 		"ja": "",
