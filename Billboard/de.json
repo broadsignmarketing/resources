@@ -1,85 +1,86 @@
 {
-	"EBook5MistakesToAvoid": {
-		"text": "",
-		"cta": ""
-	},
-	"EBook7Habits": {
-		"title": "",
-		"cta": ""
-	},
-	"EBookAddingDigitalToYourOOHNetwork": {
-		"title": "",
-		"cta": ""
-	},
-	"EBookCampsiteAddRealWorldKick": {
-		"Title": "",
-		"CTA": "",
-		"URL": ""
-	},
-	"EBookDOOHPlaybook": {
-		"text": "",
-		"cta": ""
-	},
-	"ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
-		"text": "",
-		"cta": ""
-	},
-	"EBookInteractiveContent": {
-		"title": "",
-		"cta": ""
-	},
-	"EBookModernizeOOHBusiness": {
-		"title": "",
-		"cta": ""
-	},
-	"EBookOptimizeOOHSalesThroughAutomation": {
-		"title": "",
-		"tagline": "",
-		"cta": ""
-	},
-	"ebookOptimizeOOHSalesThroughAutomation": {
-		"description": "Schöpfen Sie das volle Potenzial Ihres Unternehmens aus, indem Sie wichtige Elemente des Vertriebsprozesses optimieren und den Ertrag mit der Kraft der Automatisierung steigern.",
-		"filePath": "https://cdn2.hubspot.net/hubfs/297064/eBooks/Optimize_OOH_Sales_and_Yield_Broadsign.pdf"
-	},
-	"MediaKitAmplify": {
-		"title": "",
-		"cta": ""
-	},
-	"ProgrammaticU": {
-		"title": "",
-		"cta": ""
-	},
-	"ProgrammaticUMediaBuyers": {
-		"title": "",
-		"cta": ""
-	},
-	"ProgrammaticUMediaOwners": {
-		"title": "",
-		"cta": ""
-	},
-	"SOC2": {
-		"title": "",
-		"text": "",
-		"cta": ""
-	},
-	"WebinarControl13": {
-		"cta": ""
-	},
-	"WebinarDirect": {
-		"cta": ""
-	},
-	"SuccessfulNetwork": {
-		"text": "Aufbau eines erfolgreichen Digital Signage-Netzwerks",
-		"cta": "Laden Sie sich unser E-Book herunter"
-	},
-	"demo": {
-		"tagline": "",
-		"cta": "",
-		"learnMore": ""
-	},
-	"freeTrial": {
-		"tagline": "",
-		"cta": "",
-		"learnMore": ""
-	}
+    "BigVoiceAward": {
+        "text": "",
+        "cta": "",
+        "url": ""
+    },
+    "EBook5MistakesToAvoid": {
+        "text": "",
+        "cta": ""
+    },
+    "EBook7Habits": {
+        "title": "",
+        "cta": ""
+    },
+    "EBookAddingDigitalToYourOOHNetwork": {
+        "title": "",
+        "cta": ""
+    },
+    "EBookCampsiteAddRealWorldKick": {
+        "Title": "",
+        "CTA": "",
+        "URL": ""
+    },
+    "EBookDOOHPlaybook": {
+        "text": "",
+        "cta": ""
+    },
+    "EBookInteractiveContent": {
+        "title": "",
+        "cta": ""
+    },
+    "EBookModernizeOOHBusiness": {
+        "title": "",
+        "cta": ""
+    },
+    "EBookOptimizeOOHSalesThroughAutomation": {
+        "title": "",
+        "tagline": "",
+        "cta": ""
+    },
+    "ebookOptimizeOOHSalesThroughAutomation": {
+        "description": "Schöpfen Sie das volle Potenzial Ihres Unternehmens aus, indem Sie wichtige Elemente des Vertriebsprozesses optimieren und den Ertrag mit der Kraft der Automatisierung steigern.",
+        "filePath": "https://cdn2.hubspot.net/hubfs/297064/eBooks/Optimize_OOH_Sales_and_Yield_Broadsign.pdf"
+    },
+    "MediaKitAmplify": {
+        "title": "",
+        "cta": ""
+    },
+    "ProgrammaticU": {
+        "title": "",
+        "cta": ""
+    },
+    "ProgrammaticUMediaBuyers": {
+        "title": "",
+        "cta": ""
+    },
+    "ProgrammaticUMediaOwners": {
+        "title": "",
+        "cta": ""
+    },
+    "SOC2": {
+        "title": "",
+        "text": "",
+        "cta": ""
+    },
+    "WebinarControl13": {
+        "cta": ""
+    },
+    "WebinarDirect": {
+        "cta": ""
+    },
+    "SuccessfulNetwork": {
+        "text": "Aufbau eines erfolgreichen Digital Signage-Netzwerks",
+        "cta": "Laden Sie sich unser E-Book herunter"
+    },
+    "demo": {
+        "tagline": "",
+        "cta": "",
+        "learnMore": ""
+    },
+    "freeTrial": {
+        "tagline": "",
+        "cta": "",
+        "learnMore": ""
+    }
 }
