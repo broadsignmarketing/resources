@@ -9,7 +9,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn",
+		"cn": "https://www.broadsign.cn/web/HomePage.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -68,7 +68,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-control",
+		"cn": "https://www.broadsign.cn/web/BroadsignControl.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -83,7 +83,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "",
+		"cn": "https://www.broadsign.cn/web/BroadsignDirect.aspx",
 		"meta": {
 			"forms": [
 				{
@@ -103,7 +103,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-publish",
+		"cn": "https://www.broadsign.cn/web/BroadsignCreator.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -118,7 +118,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/broadsign-reach",
+		"cn": "https://www.broadsign.cn/web/BroadsignReach.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -178,7 +178,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-banking",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInBanking.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -208,7 +208,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-cinema",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInCinema.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -238,7 +238,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-gas-stations",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInGasStations.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -253,7 +253,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-healthcare",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInHealthcare.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -268,7 +268,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-hospitality",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInHospitality.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -283,7 +283,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-internal-communications",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInInternalCommunications.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -328,7 +328,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-shopping-malls",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInRetail.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -358,12 +358,11 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/vertical-transit",
+		"cn": "https://www.broadsign.cn/web/VerticalsDigitalSignageInTransit.aspx",
 		"meta": {
 			"forms": []
 		}
 	},
-
 	"launchPDOOHCampaign": {
 		"js": "launch-pdooh-campaign",
 		"en": "launch-pdooh-campaign",
@@ -1204,7 +1203,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/contact",
+		"cn": "https://www.broadsign.cn/web/ContactUs.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -1654,7 +1653,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/training",
+		"cn": "https://www.broadsign.cn/web/Training.aspx",
 		"meta": {
 			"forms": []
 		}
@@ -1669,7 +1668,7 @@
 		"nl": "",
 		"ja": "",
 		"id": "",
-		"cn": "cn/who-we-are",
+		"cn": "https://www.broadsign.cn/web/WhoWeAre.aspx",
 		"meta": {
 			"forms": []
 		}
