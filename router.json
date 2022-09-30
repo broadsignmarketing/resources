@@ -1644,6 +1644,21 @@
 			"forms": []
 		}
 	},
+	"winFreeDOOHXCourse": {
+		"js": "win-free-doohx-course",
+		"en": "win-free-doohx-course",
+		"fr": "",
+		"es": "",
+		"de": "",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
+	},
 	"training": {
 		"js": "training",
 		"en": "training",
