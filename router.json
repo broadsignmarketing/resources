@@ -1645,8 +1645,8 @@
 		}
 	},
 	"winFreeDOOHXCourse": {
-		"js": "win-free-doohx-course",
-		"en": "win-free-doohx-course",
+		"js": "get-your-free-doohx-course",
+		"en": "get-your-free-doohx-course",
 		"fr": "",
 		"es": "",
 		"de": "",
