@@ -1255,8 +1255,8 @@
 		}
 	},
 	"programmaticPrivacyPolicy": {
-		"js": "programmatic-privacy-policy",
-		"en": "programmatic-privacy-policy",
+		"js": "programmatic-platform-policies",
+		"en": "programmatic-platform-policies",
 		"fr": "fr/politique-plateforme-programmatique",
 		"es": "",
 		"de": "",
