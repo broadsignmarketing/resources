@@ -1762,5 +1762,20 @@
 		"meta": {
 			"forms": []
 		}
+	},
+	"subscribe": {
+		"js": "subscribe",
+		"en": "subscribe",
+		"fr": "",
+		"es": "",
+		"de": "de/abonnieren",
+		"pt": "",
+		"nl": "",
+		"ja": "",
+		"id": "",
+		"cn": "",
+		"meta": {
+			"forms": []
+		}
 	}
 }
