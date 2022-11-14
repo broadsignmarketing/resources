@@ -924,9 +924,9 @@
 		}
 	},
 
-	"webinarPDOOH2022": {
-		"js": "",
-		"en": "https://resources.broadsign.com/on-demand-webinars/highlights-from-our-latest-panel-discussion-pdooh-in-2022",
+	"webinarPurposeLedBrands": {
+		"js": "webinar-purpose-led-brands",
+		"en": "webinar-purpose-led-brands",
 		"fr": "",
 		"es": "",
 		"de": "",
